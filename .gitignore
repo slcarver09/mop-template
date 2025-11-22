@@ -34,6 +34,9 @@ dist-ssr
 
 #Commit example file for team reference
 !.env.example
+
+#Additional files to exclude
+csvs/ 
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
