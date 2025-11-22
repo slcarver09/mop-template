@@ -1,0 +1,1042 @@
+Name,POP Code,Model,Serial Number,Rack,RU,Device Name
+acp1.wash.net.internet2.edu,WASH,Switched PDU Version 8.0w,10054380,TSG/OSS Rack [344224123],37,Sentry Switched PDU Version 8.0w
+acp2.losa.net.internet2.edu,LOSA,C2WG08HC-0ABA2DAC,DUMMY-1649103307-5233,Internet2 Packet / TSG Rack [338555815],10,Server Technology C2WG08HC-0ABA2DAC
+acp2.wash.net.internet2.edu,WASH,C2WG08HC-0ABA2DAC,DUMMY-1669842274-4016,TSG/OSS Rack [344224123],38,Server Technology C2WG08HC-0ABA2DAC
+agg1.ashb.net.internet2.edu,ASHB,NCS-57D2-18DD-SYS,FOC2719R2NZ,Internet2 Packet Rack [0102-21506670],27,Cisco NCS-57D2-18DD-SYS
+agg1.dall3.net.internet2.edu,DALL3,8202-SYS,FOC2428P3V1,NGI Combined Optical / Packet Cabinet,18,Cisco 8202-SYS
+agg1.eqch.net.internet2.edu,EQCH,8202,FOC2428P3V4,Internet2 NGI Packet Rack,21,Cisco 8202
+agg1.losa2.net.internet2.edu,LOSA2,NCS-57D2-18DD-SYS,FOC2838R00E,Internet2 NGI Combined Optical / Packet,25,Cisco NCS-57D2-18DD-SYS
+agg1.newa.net.internet2.edu,NEWA,NCS-57D2-18DD-SYS,FOC2714RA7M,Internet2 Combination Rack (Primary),21,Cisco NCS-57D2-18DD-SYS
+agg1.sanj.net.internet2.edu,SANJ,8202,FOC2428P3UX,Internet2 NGI Combined Optical / Packet Cabinet,30,Cisco 8202
+agg1.seat.net.internet2.edu,SEAT,NCS-57D2-18DD-SYS,FOC2917R0A4,Internet2 Packet Rack,19,Cisco NCS-57D2-18DD-SYS
+agg2.ashb.net.internet2.edu,ASHB,NCS-57D2-18DD-SYS,FOC2727R0GG,Internet2 Packet Rack [0102-21506670],23,Cisco NCS-57D2-18DD-SYS
+agg2.dall3.net.internet2.edu,DALL3,8202-SYS,FOC2428P3UV,NGI Combined Optical / Packet Cabinet,16,Cisco 8202-SYS
+agg2.eqch.net.internet2.edu,EQCH,8202-SYS,FOC2428P3V9,Internet2 NGI Packet Rack,17,Cisco 8202-SYS
+agg2.losa2.net.internet2.edu,LOSA2,NCS-57D2-18DD-SYS,FOC2727R0GH,Internet2 NGI Combined Optical / Packet,23,Cisco NCS-57D2-18DD-SYS
+agg2.newa.net.internet2.edu,NEWA,NCS-57D2-18DD-SYS,FOC2837R0DC,Internet2 Combination Rack (Primary),17,Cisco NCS-57D2-18DD-SYS
+agg2.sanj.net.internet2.edu,SANJ,8202,FOC2428P3UE,Internet2 NGI Combined Optical / Packet Cabinet,28,Cisco 8202
+agg2.seat.net.internet2.edu,SEAT,NCS-57D2-18DD-SYS,FOC2917R09Y,Internet2 Packet Rack,15,Cisco NCS-57D2-18DD-SYS
+agg3.ashb.net.internet2.edu,ASHB,NCS-57D2-18DD-SYS,FOC2727R0FR,Internet2 Packet Rack [0102-21506670],13,Cisco NCS-57D2-18DD-SYS
+agg3.dall3.net.internet2.edu,DALL3,NCS-55A1-36H-SE-S,FOC2319R0NG,NGI Combined Optical / Packet Cabinet,26,Cisco NCS-55A1-36H-SE-S
+agg3.eqch.net.internet2.edu,EQCH,NCS-55A1-36H-SE-S,FOC2314R0FU,Internet2 AL2S,15,Cisco NCS-55A1-36H-SE-S
+agg3.sanj.net.internet2.edu,SANJ,NCS-55A1-36H-SE-S,FOC2336R3DJ,Internet2 NGI Cabinet for NCS,25,Cisco NCS-55A1-36H-SE-S
+agg4.dall3.net.internet2.edu,DALL3,NCS-55A1-36H-SE-S,FOC2232R0KC,NGI Combined Optical / Packet Cabinet,27,Cisco NCS-55A1-36H-SE-S
+agg4.eqch.net.internet2.edu,EQCH,NCS-55A1-36H-SE-S,FOC2322R22N,Internet2 AL2S,14,Cisco NCS-55A1-36H-SE-S
+agg4.sanj.net.internet2.edu,SANJ,NCS-55A1-36H-SE-S,FOC2322R21T,Internet2 NGI Cabinet for NCS,26,Cisco NCS-55A1-36H-SE-S
+bastion.salt.net.internet2.edu,SALT,LinuxKVM,DUMMY-1673021901-5011,"Internet2 [AVAILABLE] 19""",0,LinuxKVM LinuxKVM
+colo-srv2.losa.net.internet2.edu,LOSA,PowerEdge R530,DUMMY-1481751573-6184,Internet2 Packet / TSG Rack [338555815],5,Dell PowerEdge R530
+colo-srv3.losa.net.internet2.edu,LOSA,PowerEdge R730xd,DUMMY-1481751620-1212,Internet2 Packet / TSG Rack [338555815],2,Dell PowerEdge R730xd
+colo-sw2.pens.net.internet2.edu,PENS,Generic-3ru-device,DUMMY-1627591442-1748,Internet2 Combined Rack [337170542],26,Generic Generic-3ru-device
+colo.jack.net.internet2.edu,JACK,R-Drawer-2u,DUMMY-1661532442-6098,Internet2 HD Combined Rack [337031122],26,Rack Solutions R-Drawer-2u
+colo.losa.net.internet2.edu,LOSA,SRX210,DUMMY-1481750960-1968,Internet2 Packet / TSG Rack [338555815],8,Juniper SRX210
+core1.alba.net.internet2.edu,ALBA,8201,FOC2434N009,Internet2 Combined Rack [335802275],24,Cisco 8201
+core1.ashb.net.internet2.edu,ASHB,8201,FOC2440NBXB,Internet2 Packet Rack [0102-21506670],20,Cisco 8201
+core1.atla.net.internet2.edu,ATLA,8201,FOC2449P4TV,Packet Rack [BBBL17833],18,Cisco 8201
+core1.bato.net.internet2.edu,BATO,8201-32FH,FLM29150EQD,Internet2 Packet Rack [BBLQ26391],30,Cisco 8201-32FH
+core1.bois.net.internet2.edu,BOIS,8201,FOC2434N02Q,Internet2 Combined Rack [336482838],24,Cisco 8201
+core1.bost.net.internet2.edu,BOST,8201-32FH,FLM263400Y2,Internet2 HD Optical Rack [4419042098],18,Cisco 8201-32FH
+core1.bost2.net.internet2.edu,BOST2,8201,FOC2449P4UM,Internet2 Combined Rack,24,Cisco 8201
+core1.char.net.internet2.edu,CHAR,8201,FOC2428NWJY,Internet2 Combined HD Cabinet [441904296],24,Cisco 8201
+core1.chic.net.internet2.edu,CHIC,8201,FOC2434N01M,Internet2 Packet Rack [BBDN24324],17,Cisco 8201
+core1.cinc.net.internet2.edu,CINC,8201,FOC2428NWH7,Internet2 Packet Rack [338151658],21,Cisco 8201
+core1.clev.net.internet2.edu,CLEV,8201,FOC2438N87M,Internet2 Packet Rack [BBHL46914],21,Cisco 8201
+core1.dall.net.internet2.edu,DALL,8201,FOC2434N00P,Internet2 Packet Rack [BBMJ89508],15,Cisco 8201
+core1.denv.net.internet2.edu,DENV,8201,FOC2449P4VP,Internet2 Packet Rack [BBHL47067],27,Cisco 8201
+core1.elpa.net.internet2.edu,ELPA,8201,FOC2449P4UZ,Internet2 Packet Rack [344159569],31,Cisco 8201
+core1.eqch.net.internet2.edu,EQCH,8201,FOC2450N05G,Internet2 NGI Packet Rack,11,Cisco 8201
+core1.farg.net.internet2.edu,FARG,8201-32FH,FLM25420DJ7,Internet2 Packet Rack [COLO/2148263//ZYO],30,Cisco 8201-32FH
+core1.hart2.net.internet2.edu,HART2,8201,FOC2437P5CX,Combined HD Cabinet [441916754],24,Cisco 8201
+core1.holy.net.internet2.edu,HOLY,8201-32FH,FLM263401XG,(NEREN Owned) Packet Rack,28,Cisco 8201-32FH
+core1.houh.net.internet2.edu,HOUH,8201,FOC2449P4V2,Internet2 Combined Rack [336919546],24,Cisco 8201
+core1.hous.net.internet2.edu,HOUS,8201,FOC2434N01T,Internet2 Packet Rack [BBGD20172],21,Cisco 8201
+core1.indi.net.internet2.edu,INDI,8201,FOC2449P4V9,Internet2 Combined Rack,29,Cisco 8201
+core1.jack.net.internet2.edu,JACK,8201,FOC2449P4U7,Internet2 HD Combined Rack [337031122],24,Cisco 8201
+core1.jcsn.net.internet2.edu,JCSN,8201,FOC2434N02P,Internet2 Combined Rack [336586310],24,Cisco 8201
+core1.kans.net.internet2.edu,KANS,8201,FOC2428NWJ5,Internet2 Packet Rack [BBBL01088],12,Cisco 8201
+core1.lasv.net.internet2.edu,LASV,8201,FOC2437P5CS,Internet2 Combined Rack [336130858],24,Cisco 8201
+core1.losa.net.internet2.edu,LOSA,8201,FOC2449P4V7,Internet2 Packet / TSG Rack [338555815],22,Cisco 8201
+core1.loui.net.internet2.edu,LOUI,8201,FOC2440NBWL,Internet Combined Rack [336583396],24,Cisco 8201
+core1.minn.net.internet2.edu,MINN,8201,FOC2449P4UY,Internet2 Combined Rack,20,Cisco 8201
+core1.miss.net.internet2.edu,MISS,8201,FOC2449P4U3,Internet2 NGI Packet Rack,24,Cisco 8201
+core1.nash.net.internet2.edu,NASH,8201,FOC2440NBXQ,Internet2 Packet Rack [338553090],21,Cisco 8201
+core1.newy32aoa.net.internet2.edu,NEWY32AOA,8201,FOC2428NWHJ,Internet2 NGI Packet / MAN LAN,21,Cisco 8201
+core1.pens.net.internet2.edu,PENS,8201,FOC2449P4UK,Internet2 Combined Rack [337170542],24,Cisco 8201
+core1.phil.net.internet2.edu,PHIL,8201,FOC2434N025,Internet2 Combined Rack [336087578],24,Cisco 8201
+core1.phoe.net.internet2.edu,PHOE,8201,FOC2437P5A6,Internet2 Combined Rack | 336408118,21,Cisco 8201
+core1.pitt.net.internet2.edu,PITT,8201,FOC2438N87L,Internet2 Combined Rack [345031055],24,Cisco 8201
+core1.port.net.internet2.edu,PORT,8201,FOC2437P5CL,Internet2 Combined 4 Post Rack [337939576],24,Cisco 8201
+core1.rale.net.internet2.edu,RALE,8201,FOC2440NBWM,Internet2 Combined HD Cabinet,24,Cisco 8201
+core1.reno.net.internet2.edu,RENO,8201,FOC2440NBXA,Internet2 Combined 4 Post Rack [338007980],24,Cisco 8201
+core1.sacr.net.internet2.edu,SACR,8201,FOC2449P4US,Internet2 Packet Rack | 338151968,21,Cisco 8201
+core1.salt.net.internet2.edu,SALT,8201,FOC2449P4TQ,Internet2 Packet 4 post Rack [338268901],21,Cisco 8201
+core1.scinet.net.internet2.edu,SAIN2,8201-32FH,FLM29100PLN,Internet2 Optical Rack [pending],1,Cisco 8201-32FH
+core1.seat.net.internet2.edu,SEAT,8201,FOC2437P5AJ,Internet2 Packet Rack,26,Cisco 8201
+core1.star.net.internet2.edu,STAR,8201,FOC2428NWJ2,Internet2 Combined Rack,24,Cisco 8201
+core1.sunn.net.internet2.edu,SUNN,8201,FOC2449P4U0,Internet2 Packet Rack [336784820],21,Cisco 8201
+core1.tole2.net.internet2.edu,TOLE2,8201,FOC2437P5AW,Internet2 Combined Rack [BBPC1224],24,Cisco 8201
+core1.tucs.net.internet2.edu,TUCS,8201,FOC2440NBXH,Internet2 Combined HD Rack [336408315],24,Cisco 8201
+core1.tuls.net.internet2.edu,TULS,8201,FOC2437P5BC,Internet2 Combined Rack [338084659],25,Cisco 8201
+core1.wash.net.internet2.edu,WASH,8201,FOC2449P4TU,Internet2 Packet/WIX Rack [344224120],23,Cisco 8201
+core2.ashb.net.internet2.edu,ASHB,8201,FOC2434N02N,Internet2 Packet Rack [0102-21506670],17,Cisco 8201
+core2.atla.net.internet2.edu,ATLA,8201,FOC2449P4W4,Packet Rack [BBBL17833],15,Cisco 8201
+core2.chic.net.internet2.edu,CHIC,8201,FOC2449P4TL,Internet2 Packet Rack [BBDN24324],15,Cisco 8201
+core2.cinc.net.internet2.edu,CINC,8201,FOC2449P4WC,Internet2 Packet Rack [338151658],18,Cisco 8201
+core2.clev.net.internet2.edu,CLEV,8201,FOC2449P4TM,Internet2 Packet Rack [BBHL46914],18,Cisco 8201
+core2.dall.net.internet2.edu,DALL,8201,FOC2428NWH8,Internet2 Packet Rack [BBMJ89508],12,Cisco 8201
+core2.denv.net.internet2.edu,DENV,8201,FOC2449P4UU,Internet2 Packet Rack [BBHL47067],24,Cisco 8201
+core2.elpa.net.internet2.edu,ELPA,8201,FOC2449P4V1,Internet2 Packet Rack [344159569],30,Cisco 8201
+core2.eqch.net.internet2.edu,EQCH,8201,FOC2449P4UW,Internet2 NGI Packet Rack,8,Cisco 8201
+core2.hous.net.internet2.edu,HOUS,8201,FOC2438N87N,Internet2 Packet Rack [BBGD20172],18,Cisco 8201
+core2.kans.net.internet2.edu,KANS,8201,FOC2437P5CV,Internet2 Packet Rack [BBBL01088],9,Cisco 8201
+core2.losa.net.internet2.edu,LOSA,8201,FOC2450N05E,Internet2 Packet / TSG Rack [338555815],19,Cisco 8201
+core2.nash.net.internet2.edu,NASH,8201,FOC2449P4TK,Internet2 Packet Rack [338553090],18,Cisco 8201
+core2.newy32aoa.net.internet2.edu,NEWY32AOA,8201,FOC2449P4TZ,Internet2 NGI Packet / MAN LAN,18,Cisco 8201
+core2.sacr.net.internet2.edu,SACR,8201,FOC2446N8RW,Internet2 Packet Rack | 338151968,18,Cisco 8201
+core2.salt.net.internet2.edu,SALT,8201,FOC2449P4U4,Internet2 Packet 4 post Rack [338268901],18,Cisco 8201
+core2.seat.net.internet2.edu,SEAT,8201,FOC2440NBX5,Internet2 Packet Rack,23,Cisco 8201
+core2.sunn.net.internet2.edu,SUNN,8201,FOC2437P5C4,Internet2 Packet Rack [336784820],18,Cisco 8201
+dcp.farg.net.internet2.edu,FARG,1RU,dcp.farg2.net.internet2.edu-chassis,Internet2 Packet Rack [COLO/2148263//ZYO],42,Generic 1RU
+dcp1.alba.net.internet2.edu,ALBA,DC Sentry Switched -48 VDC Version 7.1f,1809631,Internet2 Combined Rack [335802275],41,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.albu.net.internet2.edu,ALBU,DC Sentry Switched -48 VDC Version 7.0v,1810499,Internet2 Optical Rack [338529712],40,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp1.ashb.net.internet2.edu,ASHB,DC Sentry Switched -48 VDC Version 7.1f,1809523,Internet2 Optical Rack [0101-21506669],43,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.atla.net.internet2.edu,ATLA,DC Sentry Switched -48 VDC Version 7.1f,1809632,Internet2 Optical Rack [336409418],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.atlm.net.internet2.edu,ATLM,DC Sentry Switched -48 VDC Version 7.0v,1810509,Internet2 Optical Rack,42,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp1.balt.net.internet2.edu,BALT,009-8004-0100,DUMMY-1692295432-1030,Internet2 Optical Rack [335947274],40,Telect 009-8004-0100
+dcp1.bato.net.internet2.edu,BATO,DC Sentry Switched -48 VDC Version 7.1e,1806795,Internet2 Optical Rack [BBBL18798],41,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp1.bois.net.internet2.edu,BOIS,DC Sentry Switched -48 VDC Version 7.1f,1809483,Internet2 Combined Rack [336482838],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.bost2.net.internet2.edu,BOST2,DC Sentry Switched -48 VDC Version 7.0v,1809647,Internet2 Combined Rack,42,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp1.char.net.internet2.edu,CHAR,DC Sentry Switched -48 VDC Version 7.1f,1809513,Internet2 Combined HD Cabinet [441904296],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.chic.net.internet2.edu,CHIC,Switched DC PDU Version 8.0t,9931769,Internet2 Packet Rack [BBDN24324],37,Sentry Switched DC PDU Version 8.0t
+dcp1.cinc.net.internet2.edu,CINC,DC Sentry Switched -48 VDC Version 7.1f,1809621,Internet2 Optical Rack [336588838],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.clev.net.internet2.edu,CLEV,Switched DC PDU Version 8.0t,9911479,Internet2 Packet Rack [BBHL46914],41,Sentry Switched DC PDU Version 8.0t
+dcp1.dall.net.internet2.edu,DALL,DC Sentry Switched -48 VDC Version 7.1f,1809650,Internet2 Optical Rack [337304945],39,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.dall3.net.internet2.edu,DALL3,Switched DC PDU Version 8.0t,9939457,NGI Combined Optical / Packet Cabinet,38,Sentry Switched DC PDU Version 8.0t
+dcp1.denv.net.internet2.edu,DENV,DC Sentry Switched -48 VDC Version 7.1f,1809638,Internet2 Optical Rack [335494621],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.elpa.net.internet2.edu,ELPA,DC Sentry Switched -48 VDC Version 7.1f,1809601,Internet2 Optical Rack [344159570],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.eqch.net.internet2.edu,EQCH,Switched DC PDU Version 8.0t,9931766,Internet2 NGI Packet Rack,37,Sentry Switched DC PDU Version 8.0t
+dcp1.hart2.net.internet2.edu,HART2,DC Sentry Switched -48 VDC Version 7.1f,1809457,Combined HD Cabinet [441916754],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.houh.net.internet2.edu,HOUH,DC Sentry Switched -48 VDC Version 7.1f,1809484,Internet2 Combined Rack [336919546],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.hous.net.internet2.edu,HOUS,DC Sentry Switched -48 VDC Version 7.1f,1809592,Internet2 Optical Rack [336784324],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.indi.net.internet2.edu,INDI,DC Sentry Switched -48 VDC Version 7.1e,1809625,Internet2 Combined Rack,40,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp1.jack.net.internet2.edu,JACK,DC Sentry Switched -48 VDC Version 7.1f,1810496,Internet2 HD Combined Rack [337031122],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.jcsn.net.internet2.edu,JCSN,DC Sentry Switched -48 VDC Version 7.1f,1809645,Internet2 Combined Rack [336586310],41,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.kans.net.internet2.edu,KANS,1RU,DUMMY-1611954132-2820,Internet2 Packet Rack [BBBL01088],39,Generic 1RU
+dcp1.lasv.net.internet2.edu,LASV,DC Sentry Switched -48 VDC Version 7.1f,1809476,Internet2 Combined Rack [336130858],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.losa.net.internet2.edu,LOSA,Switched DC PDU Version 8.0s,9923836,Internet2 Packet / TSG Rack [338555815],43,Sentry Switched DC PDU Version 8.0s
+dcp1.losa2.net.internet2.edu,LOSA2,DC Sentry Switched -48 VDC Version 7.1f,1809494,Internet2 NGI Combined Optical / Packet,45,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.loui.net.internet2.edu,LOUI,DC Sentry Switched -48 VDC Version 7.1f,1810191,Internet Combined Rack [336583396],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.memp.net.internet2.edu,MEMP,DC Sentry Switched -48 VDC Version 7.0v,1810500,Internet2 Optical Rack [BBXP0888],41,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp1.miss.net.internet2.edu,MISS,Switched DC PDU Version 8.0t,9931764,Internet2 NGI Packet Rack,36,Sentry Switched DC PDU Version 8.0t
+dcp1.nash.net.internet2.edu,NASH,Switched DC PDU Version 8.0s,9923840,Internet2 Packet Rack [338553090],41,Sentry Switched DC PDU Version 8.0s
+dcp1.newa.net.internet2.edu,NEWA,Switched DC PDU Version 8.0y,10250348,Internet2 Combination Rack (Primary),34,Sentry Switched DC PDU Version 8.0y
+dcp1.newy2.net.internet2.edu,NEWY2,DC Sentry Switched -48 VDC Version 7.0v,1810497,Internet2 NGI Router Cabinet,43,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp1.newy32aoa.net.internet2.edu,NEWY32AOA,DC Sentry Switched -48 VDC Version 7.1f,1809635,Internet2 NGI Optical,42,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.pens.net.internet2.edu,PENS,DC Sentry Switched -48 VDC Version 7.1f,1809477,Internet2 Combined Rack [337170542],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.phil.net.internet2.edu,PHIL,Switched DC PDU Version 8.0t,9931799,Internet2 Combined Rack [336087578],37,Sentry Switched DC PDU Version 8.0t
+dcp1.phoe.net.internet2.edu,PHOE,DC Sentry Switched -48 VDC Version 7.1f,1810533,Internet2 Combined Rack | 336408118,40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.pitt.net.internet2.edu,PITT,DC Sentry Switched -48 VDC Version 7.1f,1809626,Internet2 Combined Rack [345031055],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.port.net.internet2.edu,PORT,DC Sentry Switched -48 VDC Version 7.1f,1809478,Internet2 Combined 4 Post Rack [337939576],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.rale.net.internet2.edu,RALE,DC Sentry Switched -48 VDC Version 7.1f,1809469,Internet2 Combined HD Cabinet,40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.reno.net.internet2.edu,RENO,DC Sentry Switched -48 VDC Version 7.1f,1809475,Internet2 Combined 4 Post Rack [338007980],41,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.sacr.net.internet2.edu,SACR,DC Sentry Switched -48 VDC Version 7.1f,1809591,Internet2 Optical Rack [442048518],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.salt.net.internet2.edu,SALT,DC Sentry Switched -48 VDC Version 7.1f,1809492,Internet2 Optical Rack | 336911578,40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.sanj.net.internet2.edu,SANJ,Switched DC PDU Version 8.0t,9931768,Internet2 NGI Combined Optical / Packet Cabinet,37,Sentry Switched DC PDU Version 8.0t
+dcp1.seat.net.internet2.edu,SEAT,DC Sentry Switched -48 VDC Version 7.1f,1809614,Internet2 Optical Rack 4post,40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.star.net.internet2.edu,STAR,48DCWB-102X300-E0NB,DUMMY-1618336446-2554,Internet2 Combined Rack,40,ServerTech 48DCWB-102X300-E0NB 48DCWB-102X300-E0NB
+dcp1.sunn.net.internet2.edu,SUNN,DC Sentry Switched -48 VDC Version 7.1f,1809628,Internet2 Optical Rack [338270522],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.tole2.net.internet2.edu,TOLE2,Switched DC PDU Version 8.0t,9939460,Internet2 Combined Rack [BBPC1224],40,Sentry Switched DC PDU Version 8.0t
+dcp1.tucs.net.internet2.edu,TUCS,DC Sentry Switched -48 VDC Version 7.1f,1810532,Internet2 Combined HD Rack [336408315],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.tuls.net.internet2.edu,TULS,DC Sentry Switched -48 VDC Version 7.1f,1809497,Internet2 Combined Rack [338084659],39,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp1.wash.net.internet2.edu,WASH,Switched DC PDU Version 8.0t,9931778,Internet2 Packet/WIX Rack [344224120],41,Sentry Switched DC PDU Version 8.0t
+dcp2.alba.net.internet2.edu,ALBA,Switched DC PDU Version 8.0s,9920267,Internet2 Combined Rack [335802275],38,Sentry Switched DC PDU Version 8.0s
+dcp2.albu.net.internet2.edu,ALBU,Switched DC PDU Version 8.0s,dcp2.albu.net.internet2.edu-chassis,Internet2 Optical Rack [338529712],38,Sentry Switched DC PDU Version 8.0s
+dcp2.ashb.net.internet2.edu,ASHB,1RU,DUMMY-1614718540-5945,Internet2 Optical Rack [0101-21506669],41,Generic 1RU
+dcp2.atla.net.internet2.edu,ATLA,Switched DC PDU Version 8.0s,9923837,Packet Rack [BBBL17833],41,Sentry Switched DC PDU Version 8.0s
+dcp2.bato.net.internet2.edu,BATO,Switched DC PDU Version 8.0t,9931785,Internet2 Packet Rack [BBLQ26391],41,Sentry Switched DC PDU Version 8.0t
+dcp2.bois.net.internet2.edu,BOIS,DC Sentry Switched -48 VDC Version 7.1e,DUMMY-1611593712-2917,Internet2 Combined Rack [336482838],38,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp2.bost.net.internet2.edu,BOST,DC Sentry Switched -48 VDC Version 7.0v,1809536,Internet2 HD Optical Rack [4419042098],36,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp2.bost2.net.internet2.edu,BOST2,Switched DC PDU Version 8.0t,9931935,Internet2 Combined Rack,39,Sentry Switched DC PDU Version 8.0t
+dcp2.char.net.internet2.edu,CHAR,Switched DC PDU Version 8.0t,9931796,Internet2 Combined HD Cabinet [441904296],38,Sentry Switched DC PDU Version 8.0t
+dcp2.chic.net.internet2.edu,CHIC,DC Sentry Version 5.3q,1646008,Internet2 Packet Rack [BBDN24324],41,Sentry DC Sentry Version 5.3q
+dcp2.cinc.net.internet2.edu,CINC,Switched DC PDU Version 8.0s,9923845,Internet2 Packet Rack [338151658],41,Sentry Switched DC PDU Version 8.0s
+dcp2.clev.net.internet2.edu,CLEV,1RU,DUMMY-1618235947-9339,Internet2 Packet Rack [BBHL46914],40,Generic 1RU
+dcp2.dall.net.internet2.edu,DALL,DC Sentry Switched -48 VDC Version 7.1e,1802455,Internet2 Packet Rack [BBMJ89508],41,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp2.dall3.net.internet2.edu,DALL3,DC Sentry Switched -48 VDC Version 7.1f,1810498,NGI Combined Optical / Packet Cabinet,36,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp2.denv.net.internet2.edu,DENV,Switched DC PDU Version 8.0t,9931776,Internet2 Packet Rack [BBHL47067],35,Sentry Switched DC PDU Version 8.0t
+dcp2.elpa.net.internet2.edu,ELPA,Switched DC PDU Version 8.0t,9931765,Internet2 Packet Rack [344159569],40,Sentry Switched DC PDU Version 8.0t
+dcp2.eqch.net.internet2.edu,EQCH,1RU,DUMMY-1617133257-1994,Internet2 NGI Packet Rack,35,Generic 1RU
+dcp2.hart2.net.internet2.edu,HART2,Switched DC PDU Version 8.0t,9923850,Combined HD Cabinet [441916754],38,Sentry Switched DC PDU Version 8.0t
+dcp2.houh.net.internet2.edu,HOUH,Switched DC PDU Version 8.0t,9939459,Internet2 Combined Rack [336919546],38,Sentry Switched DC PDU Version 8.0t
+dcp2.hous.net.internet2.edu,HOUS,Switched DC PDU Version 8.0t,9931908,Internet2 Packet Rack [BBGD20172],41,Sentry Switched DC PDU Version 8.0t
+dcp2.indi.net.internet2.edu,INDI,1RU,DUMMY-1674507955-2636,Internet2 Combined Rack,18,Generic 1RU
+dcp2.jack.net.internet2.edu,JACK,Switched DC PDU Version 8.0t,9931910,Internet2 HD Combined Rack [337031122],38,Sentry Switched DC PDU Version 8.0t
+dcp2.jcsn.net.internet2.edu,JCSN,Switched DC PDU Version 8.0t,9931905,Internet2 Combined Rack [336586310],38,Sentry Switched DC PDU Version 8.0t
+dcp2.kans.net.internet2.edu,KANS,Switched DC PDU Version 8.0t,9931786,Internet2 Packet Rack [BBBL01088],40,Sentry Switched DC PDU Version 8.0t
+dcp2.lasv.net.internet2.edu,LASV,Switched DC PDU Version 8.0t,9923847,Internet2 Combined Rack [336130858],38,Sentry Switched DC PDU Version 8.0t
+dcp2.losa.net.internet2.edu,LOSA,1RU,DUMMY-1617130602-7009,Internet2 Packet / TSG Rack [338555815],41,Generic 1RU
+dcp2.losa2.net.internet2.edu,LOSA2,Switched DC PDU Version 8.0t,9931798,Internet2 NGI Combined Optical / Packet,41,Sentry Switched DC PDU Version 8.0t
+dcp2.loui.net.internet2.edu,LOUI,DC Sentry Switched -48 VDC Version 7.1e,DUMMY-1617212000-6625,Internet Combined Rack [336583396],38,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp2.miss.net.internet2.edu,MISS,1RU,DUMMY-1617979555-6226,Internet2 NGI Packet Rack,34,Generic 1RU
+dcp2.nash.net.internet2.edu,NASH,1RU,DUMMY-1617127863-4104,Internet2 Packet Rack [338553090],39,Generic 1RU
+dcp2.newy2.net.internet2.edu,NEWY2,DC Sentry Switched -48 VDC Version 7.1e,1805982,Internet2 NGI Router Cabinet,41,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp2.newy32aoa.net.internet2.edu,NEWY32AOA,Switched DC PDU Version 8.0s,9923838,Internet2 NGI Packet / MAN LAN,43,Sentry Switched DC PDU Version 8.0s
+dcp2.pens.net.internet2.edu,PENS,Switched DC PDU Version 8.0t,9939458,Internet2 Combined Rack [337170542],38,Sentry Switched DC PDU Version 8.0t
+dcp2.phil.net.internet2.edu,PHIL,DC Sentry Switched -48 VDC Version 7.1f,1809640,Internet2 Combined Rack [336087578],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp2.phoe.net.internet2.edu,PHOE,Switched DC PDU Version 8.0t,9923848,Internet2 Combined Rack | 336408118,38,Sentry Switched DC PDU Version 8.0t
+dcp2.pitt.net.internet2.edu,PITT,Switched DC PDU Version 8.0t,9931790,Internet2 Combined Rack [345031055],38,Sentry Switched DC PDU Version 8.0t
+dcp2.port.net.internet2.edu,PORT,Switched DC PDU Version 8.0t,9923849,Internet2 Combined 4 Post Rack [337939576],38,Sentry Switched DC PDU Version 8.0t
+dcp2.rale.net.internet2.edu,RALE,Switched DC PDU Version 8.0t,9939461,Internet2 Combined HD Cabinet,38,Sentry Switched DC PDU Version 8.0t
+dcp2.reno.net.internet2.edu,RENO,Switched DC PDU Version 8.0t,9931789,Internet2 Combined 4 Post Rack [338007980],38,Sentry Switched DC PDU Version 8.0t
+dcp2.sacr.net.internet2.edu,SACR,Switched DC PDU Version 8.0t,9923843,Internet2 Packet Rack | 338151968,41,Sentry Switched DC PDU Version 8.0t
+dcp2.salt.net.internet2.edu,SALT,Switched DC PDU Version 8.0s,9923844,Internet2 Packet 4 post Rack [338268901],41,Sentry Switched DC PDU Version 8.0s
+dcp2.sanj.net.internet2.edu,SANJ,DC Sentry Switched -48 VDC Version 7.0v,1810534,Internet2 NGI Combined Optical / Packet Cabinet,39,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp2.seat.net.internet2.edu,SEAT,1RU,DUMMY-1619707883-2265,Internet2 Optical Rack 4post,38,Generic 1RU
+dcp2.star.net.internet2.edu,STAR,Switched DC PDU Version 8.0t,9931777,Internet2 Combined Rack,38,Sentry Switched DC PDU Version 8.0t
+dcp2.sunn.net.internet2.edu,SUNN,Switched DC PDU Version 8.0s,9923842,Internet2 Packet Rack [336784820],41,Sentry Switched DC PDU Version 8.0s
+dcp2.tole2.net.internet2.edu,TOLE2,DC Sentry Switched -48 VDC Version 7.1f,1809520,Internet2 Combined Rack [BBPC1224],38,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp2.tucs.net.internet2.edu,TUCS,Switched DC PDU Version 8.0t,9923846,Internet2 Combined HD Rack [336408315],38,Sentry Switched DC PDU Version 8.0t
+dcp2.tuls.net.internet2.edu,TULS,DC Sentry Switched -48 VDC Version 7.1f,1812963,Internet2 Combined Rack [338084659],37,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp2.wash.net.internet2.edu,WASH,DC Sentry Switched -48 VDC Version 7.1f,1809540,Internet2 Optical Rack [344224121]],41,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp3.alba.net.internet2.edu,ALBA,1RU,DUMMY-1617207637-7628,Internet2 Combined Rack [335802275],36,Generic 1RU
+dcp3.ashb.net.internet2.edu,ASHB,Switched DC PDU Version 8.0s,9923839,Internet2 Packet Rack [0102-21506670],44,Sentry Switched DC PDU Version 8.0s
+dcp3.atla.net.internet2.edu,ATLA,1RU,DUMMY-1617305438-3821,Packet Rack [BBBL17833],39,Generic 1RU
+dcp3.bois.net.internet2.edu,BOIS,1RU,DUMMY-1611990771-4112,Internet2 Combined Rack [336482838],36,Generic 1RU
+dcp3.bost.net.internet2.edu,BOST,1RU,dcp3.bost.net.internet2.edu-chassis,Internet2 HD Optical Rack [4419042098],34,Generic 1RU
+dcp3.bost2.net.internet2.edu,BOST2,1RU,DUMMY-1701112971-8130,Internet2 Combined Rack,36,Generic 1RU
+dcp3.char.net.internet2.edu,CHAR,1RU,DUMMY-1617129898-3176,Internet2 Combined HD Cabinet [441904296],36,Generic 1RU
+dcp3.chic.net.internet2.edu,CHIC,DC Sentry Switched -48 VDC Version 7.0v,1810508,Internet2 Optical Rack [BBBL03590],41,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp3.cinc.net.internet2.edu,CINC,1RU,DUMMY-1615253570-7403,Internet2 Packet Rack [338151658],39,Generic 1RU
+dcp3.clev.net.internet2.edu,CLEV,DC Sentry Switched -48 VDC Version 7.1f,1809624,Internet2 Optical Rack [336030196],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp3.dall.net.internet2.edu,DALL,Switched DC PDU Version 8.0t,9941061,Internet2 Packet Rack [BBMJ89508],38,Sentry Switched DC PDU Version 8.0t
+dcp3.dall3.net.internet2.edu,DALL3,1RU,DUMMY-1617741264-6879,NGI Combined Optical / Packet Cabinet,20,Generic 1RU
+dcp3.denv.net.internet2.edu,DENV,1RU,DUMMY-1617132409-9736,Internet2 Optical Rack [335494621],38,Generic 1RU
+dcp3.elpa.net.internet2.edu,ELPA,1RU,DUMMY-1693344774-4254,Internet2 Packet Rack [344159569],39,Generic 1RU
+dcp3.eqch.net.internet2.edu,EQCH,Switched DC PDU Version 8.0t,9931800,Internet2 AL2S,41,Sentry Switched DC PDU Version 8.0t
+dcp3.hart2.net.internet2.edu,HART2,1RU,DUMMY-1617138122-2860,Combined HD Cabinet [441916754],36,Generic 1RU
+dcp3.houh.net.internet2.edu,HOUH,1RU,DUMMY-1613231922-3068,Internet2 Combined Rack [336919546],36,Generic 1RU
+dcp3.hous.net.internet2.edu,HOUS,1RU,DUMMY-1623084526-1694,Internet2 Packet Rack [BBGD20172],39,Generic 1RU
+dcp3.jack.net.internet2.edu,JACK,1RU,DUMMY-1617993032-8175,Internet2 HD Combined Rack [337031122],36,Generic 1RU
+dcp3.jcsn.net.internet2.edu,JCSN,1RU,DUMMY-1621003993-3978,Internet2 Combined Rack [336586310],36,Generic 1RU
+dcp3.kans.net.internet2.edu,KANS,DC Sentry Switched -48 VDC Version 7.1e,1809612,Internet2 Optical Rack [335306828],41,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dcp3.lasv.net.internet2.edu,LASV,1RU,DUMMY-1617207478-4269,Internet2 Combined Rack [336130858],35,Generic 1RU
+dcp3.losa.net.internet2.edu,LOSA,DC Sentry Switched -48 VDC Version 7.1f,1809491,Internet2 NGI Optical [336292980],40,Sentry DC Sentry Switched -48 VDC Version 7.1f
+dcp3.losa2.net.internet2.edu,LOSA2,1RU,DUMMY-1617378385-5628,Internet2 NGI Combined Optical / Packet,39,Generic 1RU
+dcp3.loui.net.internet2.edu,LOUI,1RU,DUMMY-1617212085-6957,Internet Combined Rack [336583396],36,Generic 1RU
+dcp3.nash.net.internet2.edu,NASH,DC Sentry Switched -48 VDC Version 7.0v,1810511,Internet2 Optical Rack [336584329],41,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp3.pens.net.internet2.edu,PENS,1RU,DUMMY-1618424850-7628,Internet2 Combined Rack [337170542],36,Generic 1RU
+dcp3.phil.net.internet2.edu,PHIL,1RU,DUMMY-1621283205-3191,Internet2 Combined Rack [336087578],35,Generic 1RU
+dcp3.phoe.net.internet2.edu,PHOE,1RU,DUMMY-1614874123-2302,Internet2 Combined Rack | 336408118,36,Generic 1RU
+dcp3.pitt.net.internet2.edu,PITT,1RU,DUMMY-1615248906-4511,Internet2 Combined Rack [345031055],36,Generic 1RU
+dcp3.port.net.internet2.edu,PORT,1RU,DUMMY-1617302210-4994,Internet2 Combined 4 Post Rack [337939576],36,Generic 1RU
+dcp3.rale.net.internet2.edu,RALE,1RU,DUMMY-1617213321-5183,Internet2 Combined HD Cabinet,36,Generic 1RU
+dcp3.reno.net.internet2.edu,RENO,1RU,DUMMY-1617806280-8485,Internet2 Combined 4 Post Rack [338007980],36,Generic 1RU
+dcp3.sacr.net.internet2.edu,SACR,1RU,DUMMY-1617127536-5010,Internet2 Packet Rack | 338151968,39,Generic 1RU
+dcp3.salt.net.internet2.edu,SALT,1RU,DUMMY-1617213313-3665,Internet2 Packet 4 post Rack [338268901],39,Generic 1RU
+dcp3.seat.net.internet2.edu,SEAT,Switched DC PDU Version 8.0t,9911471,Internet2 Packet Rack,41,Sentry Switched DC PDU Version 8.0t
+dcp3.star.net.internet2.edu,STAR,1RU,DUMMY-1618337974-206,Internet2 Combined Rack,36,Generic 1RU
+dcp3.sunn.net.internet2.edu,SUNN,1RU,DUMMY-1614717327-1794,Internet2 Packet Rack [336784820],39,Generic 1RU
+dcp3.tucs.net.internet2.edu,TUCS,1RU,DUMMY-1611328865-6615,Internet2 Combined HD Rack [336408315],36,Generic 1RU
+dcp3.tuls.net.internet2.edu,TULS,1RU,DUMMY-1617132970-3684,Internet2 Combined Rack [338084659],35,Generic 1RU
+dcp3.wash.net.internet2.edu,WASH,Switched DC PDU Version 8.0t,9931788,TSG/OSS Rack [344224123],41,Sentry Switched DC PDU Version 8.0t
+dcp4.ashb.net.internet2.edu,ASHB,Switched DC PDU Version 8.0t,9931767,Internet2 Packet Rack [0102-21506670],32,Sentry Switched DC PDU Version 8.0t
+dcp4.chic.net.internet2.edu,CHIC,1RU,DUMMY-1626199856-7209,Internet2 Packet Rack [BBDN24324],35,Generic 1RU
+dcp4.dall.net.internet2.edu,DALL,1RU,DUMMY-1617215362-2338,Internet2 Packet Rack [BBMJ89508],36,Generic 1RU
+dcp4.eqch.net.internet2.edu,EQCH,DC Sentry Switched -48 VDC Version 7.0v,1809634,Internet2 NGI Optical Rack,41,Sentry DC Sentry Switched -48 VDC Version 7.0v
+dcp4.sanj.net.internet2.edu,SANJ,1RU,DUMMY-1674508321-2043,Internet2 NGI Combined Optical / Packet Cabinet,35,Generic 1RU
+dcp4.wash.net.internet2.edu,WASH,1RU,DUMMY-1669066401-48,Internet2 Packet/WIX Rack [344224120],39,Generic 1RU
+drawer.clev.net.internet2.edu,CLEV,R-Drawer-2u,DUMMY-1618236346-2456,Internet2 Packet Rack [BBHL46914],23,Rack Solutions R-Drawer-2u
+drawer1.ashb.net.internet2.edu,ASHB,2RU Storage Tray,DUMMY-1615832636-4938,Internet2 Packet Rack [0102-21506670],34,Generic 2RU Storage Tray
+drawer1.atla.net.internet2.edu,ATLA,R-Drawer-2u,DUMMY-1615255944-5491,Packet Rack [BBBL17833],11,Rack Solutions R-Drawer-2u
+drawer1.bois.net.internet2.edu,BOIS,R-Drawer-2u,DUMMY-1611990189-9687,Internet2 Combined Rack [336482838],20,Rack Solutions R-Drawer-2u
+drawer1.cinc.net.internet2.edu,CINC,R-Drawer-2u,DUMMY-1615253843-5982,Internet2 Packet Rack [338151658],23,Rack Solutions R-Drawer-2u
+drawer1.dall.net.internet2.edu,DALL,SRDRAWER2U,DUMMY-1610663978-4293,Internet2 Packet Rack [BBMJ89508],17,Tripp Lite SRDRAWER2U SRDRAWER2U
+drawer1.star.net.internet2.edu,STAR,2RU Storage Tray,DUMMY-1618342606-5264,Internet2 Combined Rack,20,Generic 2RU Storage Tray
+dtn-pas.bois.net.internet2.edu,BOIS,R152-Z33,DUMMY-1663243188-4602,Internet2 Combined Rack [336482838],28,Gigabyte R152-Z33
+dtn-pas.cinc.net.internet2.edu,CINC,R152-Z33,DUMMY-1663244261-8829,Internet2 Packet Rack [338151658],7,Gigabyte R152-Z33
+dtn-pas.denv.net.internet2.edu,DENV,R152-Z33,DUMMY-1663244603-4791,Internet2 Optical Rack [335494621],32,Gigabyte R152-Z33
+dtn-pas.houh.net.internet2.edu,HOUH,2RU-server,DUMMY-1578523760-4754,Internet2 Combined Rack [336919546],26,Generic 2RU-server
+dtn-pas.hous.net.internet2.edu,HOUS,R152-Z33,DUMMY-1663181675-8637,Internet2 Packet Rack [BBGD20172],29,Gigabyte R152-Z33
+dtn-pas.jack.net.internet2.edu,JACK,R152-Z33,DUMMY-1663244056-6387,Internet2 HD Combined Rack [337031122],28,Gigabyte R152-Z33
+dtn-pas.kans.net.internet2.edu,KANS,R224-AFA-232-S,S431267X3C17943,Internet2 Packet Rack [BBBL01088],18,Applied Data Systems R224-AFA-232-S
+dtn-pas.sunn.net.internet2.edu,SUNN,2RU-server,DUMMY-1578590353-1327,Internet2 Ciena optical #3,30,Generic 2RU-server
+dwdmdcp.euge.net.internet2.edu,EUGE,DC Sentry Version 5.3q,1649328,Internet2 NGI optical Rack,41,Sentry DC Sentry Version 5.3q
+dwdmdcp.lacy.net.internet2.edu,LACY,DC Sentry Switched -48 VDC Version 7.1e,1800758,Internet2 NGI Optical Rack,41,Sentry DC Sentry Switched -48 VDC Version 7.1e
+dwdmdcp.pueb.net.internet2.edu,PUEB,DC Sentry Version 5.3q,1642802,Internet2 Optical Rack [BBWL8530],41,Sentry DC Sentry Version 5.3q
+dwdmdcp2.eqch.net.internet2.edu,EQCH,DC Sentry Version 5.3q,1645601,Internet2 NGI Packet Rack,41,Sentry DC Sentry Version 5.3q
+ext-rtr.cenic.net.internet2.edu,CENIC,unknown,DUMMY-1493923188-8932,placeholder,1,Generic unknown
+fdp1.ashb.net.internet2.edu,ASHB,MFP 2RU,DUMMY-1622830609-2831,DMARC ONLY Rack [0000-21489273],43,ADC MFP 2RU
+fdp1.bois.net.internet2.edu,BOIS,fdp,DUMMY-1611990404-7720,Internet2 Combined Rack [336482838],33,Generic fdp
+fdp1.chic.net.internet2.edu,CHIC,,DUMMY-1644007731-5036,Internet2 Optical Rack [BBBL03590],34,Multifunction Fiber Panel
+fdp1.macc.net.internet2.edu,MACC,generic-2-ru-patchpanel,fdp1.macc.net.internet2.edu-chassis,ISS Rack,29,Generic generic-2-ru-patchpanel
+fdp10.ashb.net.internet2.edu,ASHB,MFP 2RU,DUMMY-1622830909-7483,DMARC ONLY Rack [0000-21489273],18,ADC MFP 2RU
+fdp11.ashb.net.internet2.edu,ASHB,MFP 2RU,DUMMY-1622830937-9009,DMARC ONLY Rack [0000-21489273],15,ADC MFP 2RU
+fdp16.wash.net.internet2.edu,WASH,MFP 1RU,DUMMY-1687284508-9056,Internet2 Optical Rack [344224121]],37,ADC MFP 1RU
+fdp17.wash.net.internet2.edu,WASH,FDP 2RU,DUMMY-1687526698-9138,Available [344224125],24,ADC FDP 2RU
+fdp18.wash.net.internet2.edu,WASH,FDP 1RU,fdp18.wash.net.internet2.edu-chassis,Available [344224127],11,ADC FDP 1RU
+fdp2.chic.net.internet2.edu,CHIC,FDP 1RU,DUMMY-1608643686-6628,Internet2 Optical Rack [BBBL03590],26,ADC FDP 1RU
+fdp5.chic.net.internet2.edu,CHIC,FDP 1RU,DUMMY-1703007371-8687,Internet2 Monsoon ISS Rack [BBBL03592],38,ADC FDP 1RU
+fdp7.ashb.net.internet2.edu,ASHB,MFP 2RU,DUMMY-1622830662-8902,DMARC ONLY Rack [0000-21489273],40,ADC MFP 2RU
+fdp7.atla.net.internet2.edu,ATLA,FDP 1RU,fdp7.atla.net.internet2.edu-chassis,Available [BBBL17832],36,ADC FDP 1RU
+fdp8.ashb.net.internet2.edu,ASHB,MFP 2RU,DUMMY-1622830711-402,DMARC ONLY Rack [0000-21489273],34,ADC MFP 2RU
+fdp8.hous.net.internet2.edu,HOUS,FDP 1RU,DUMMY-1635352605-5740,Available [BBFV68279],39,ADC FDP 1RU
+fdp9.ashb.net.internet2.edu,ASHB,MFP 2RU,DUMMY-1622830831-4524,DMARC ONLY Rack [0000-21489273],31,ADC MFP 2RU
+fdp9.hous.net.internet2.edu,HOUS,MFP 1RU,DUMMY-1645119572-5047,Internet2 Optical Rack [336784324],39,ADC MFP 1RU
+gorex480.uhnet.net,GUAM,7280,DUMMY-1648824660-3897,GOREX,1,Arista 7280
+mcp-firmware1.chic.net.internet2.edu,CHIC,LinuxKVM,mcp-firmware1.chic.net.internet2.edu-chassis,Internet2 Monsoon ISS Rack [BBBL03592],0,LinuxKVM LinuxKVM
+mcp-firmware1.salt.net.internet2.edu,SALT,LinuxKVM,DUMMY-1678810623-3830,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+mcp-ls1.chic.ns.internet2.edu,CHIC,LinuxKVM,mcp-ls1.chic.net.internet2.edu-chassis,Internet2 Monsoon ISS Rack [BBBL03592],0,LinuxKVM LinuxKVM
+mcp-ls1.salt.ns.internet2.edu,SALT,LinuxKVM,DUMMY-1678810590-3992,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+mcp-ls2.chic.ns.internet2.edu,CHIC,LinuxKVM,mcp-ls2.chic.net.internet2.edu-chassis,Internet2 Monsoon ISS Rack [BBBL03592],0,LinuxKVM LinuxKVM
+mcp-ls2.salt.ns.internet2.edu,SALT,LinuxKVM,DUMMY-1678810602-2456,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+mcp1.salt.net.internet2.edu,SALT,LinuxKVM,DUMMY-1678810286-1948,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+mcp2.salt.net.internet2.edu,SALT,LinuxKVM,DUMMY-1678810544-4838,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+mcp3.salt.net.internet2.edu,SALT,LinuxKVM,DUMMY-1678810559-9393,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+mfp.net.manlan,NEWY32AOA,generic-1-ru-patchpanel,24.port.patch-chassis,Internet2 MAN LAN Rack (#2),38,Generic generic-1-ru-patchpanel
+mfp.newa.net.internet2.edu,NEWA,2uMFP,mfp.newa.net.internet2.edu-chassis,Internet2 Combination Rack (Primary),41,ADC 2uMFP 2uMFP
+mfp1.ashb.net.internet2.edu,ASHB,1RU,DUMMY-1615832682-171,Internet2 Packet Rack [0102-21506670],40,Generic 1RU
+mfp1.atla.net.internet2.edu,ATLA,MFP 2RU,,Available [BBBL17832],38,ADC MFP 2RU
+mfp1.cinc.net.internet2.edu,CINC,1RU,DUMMY-1615253626-5390,Internet2 Packet Rack [338151658],34,Generic 1RU
+mfp1.elpa.net.internet2.edu,ELPA,MFP 1RU,,Available [344159568],32,ADC MFP 1RU
+mfp1.euge.net.internet2.edu,EUGE,MFP 1RU,DUMMY-1624938358-3537,Internet2 NGI optical Rack,34,ADC MFP 1RU
+mfp1.macc.net.internet2.edu,MACC,generic-1-ru-patchpanel,mfp1.iss.net.internet2.edu-chassis,ISS Rack,39,Generic generic-1-ru-patchpanel
+mfp1.port.net.internet2.edu,PORT,,DUMMY-1435278881-7471,Available [BBKM14480],39,Multifunction Fiber Panel
+mfp1.star.net.internet2.edu,STAR,1RU,DUMMY-1618338044-3643,Internet2 Combined Rack,33,Generic 1RU
+mfp2.atla.net.internet2.edu,ATLA,1RU,DUMMY-1615256419-9082,Packet Rack [BBBL17833],35,Generic 1RU
+mfp2.clev.net.internet2.edu,CLEV,1RU,DUMMY-1618236047-8547,Internet2 Packet Rack [BBHL46914],34,Generic 1RU
+mfp2.dall.net.internet2.edu,DALL,generic-1-ru-patchpanel,mfp2.dall.net.internet2.edu-chassis,Internet2 Packet Rack [BBMJ89508],32,Generic generic-1-ru-patchpanel
+mfp2.losa.net.internet2.edu,LOSA,MFP 1RU,DUMMY-1669058002-6757,Internet2 NGI Optical [336292980],38,ADC MFP 1RU
+mfp2.newa.net.internet2.edu,NEWA,2uMFP,mfp2.newa.net.internet2.edu-chassis,Internet2 Combination Rack (Primary),39,ADC 2uMFP 2uMFP
+mfp3.atla.net.internet2.edu,ATLA,MFP 1RU,DUMMY-1635513368-3407,Packet Rack [BBBL17833],28,ADC MFP 1RU
+mfp3.chic.net.internet2.edu,CHIC,generic-1-ru-patchpanel,mfp3.chic.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL03590],36,Generic generic-1-ru-patchpanel
+mfp3.denv.net.internet2.edu,DENV,2uMFP,DUMMY-1695043987-708,Internet2 Packet Rack [BBHL47067],38,ADC 2uMFP 2uMFP
+mfp3.nash.net.internet2.edu,NASH,MFP 1RU,DUMMY-1639079980-5834,Internet2 Optical Rack [336584329],39,ADC MFP 1RU
+mfp3.newa.net.internet2.edu,NEWA,2uMFP,mfp3.newa.net.internet2.edu-chassis,Internet2 Combination Rack (Primary),37,ADC 2uMFP 2uMFP
+mfp4.denv.net.internet2.edu,DENV,FDP 1RU,DUMMY-1695044050-5134,Internet2 Packet Rack [BBHL47067],37,ADC FDP 1RU
+mfp4.newa.net.internet2.edu,NEWA,2uMFP,mfp4.newa.net.internet2.edu-chassis,Internet2 Secondary Rack,40,ADC 2uMFP 2uMFP
+mfp5.newa.net.internet2.edu,NEWA,2uMFP,mfp5.newa.net.internet2.edu-chassis,Internet2 Secondary Rack,36,ADC 2uMFP 2uMFP
+mfp6.newa.net.internet2.edu,NEWA,2uMFP,mfp6.newa.net.internet2.edu-chassis,Internet2 Secondary Rack,38,ADC 2uMFP 2uMFP
+monsoon-acp1.salt.net.internet2.edu,SALT,Smart PDU Version 8.0x,10236125,Internet2 ISS Rack 003.003,17,Sentry Smart PDU Version 8.0x
+monsoon-corelight1.chic.net.internet2.edu,CHIC,APPL3000-40,DUMMY-1703007734-1085,Internet2 Monsoon ISS Rack [BBBL03592],31,Corelight APPL3000-40 APPL3000-40
+monsoon-corelight1.salt.net.internet2.edu,SALT,1RU,DUMMY-1674848562-3116,Internet2 ISS Rack 003.003,32,Generic 1RU
+monsoon-drawer1.salt,SALT,R-Drawer-2u,DUMMY-1674848893-3148,Internet2 ISS Rack 003.003,7,Rack Solutions R-Drawer-2u
+monsoon-fiber-patch1.salt,SALT,1RU,DUMMY-1674849068-433,Internet2 ISS Rack 003.003,38,Generic 1RU
+monsoon-fw-vip.chic.net.internet2.edu,CHIC,SRX4100-SYS-JE-AC,monsoon-fw-vip.chic.net.internet2.edu-chassis,Internet2 Monsoon ISS Rack [BBBL03592],0,Juniper SRX4100-SYS-JE-AC SRX4100-SYS-JE-AC
+monsoon-fw-vip.salt.net.internet2.edu,SALT,SRX4100-SYS-JE-AC,DUMMY-1692389630-2452,Internet2 ISS Rack 003.003,0,Juniper SRX4100-SYS-JE-AC SRX4100-SYS-JE-AC
+monsoon-fw1.chic.net.internet2.edu,CHIC,SRX4100,DJ1122AR0069,Internet2 Monsoon ISS Rack [BBBL03592],35,Juniper SRX4100
+monsoon-fw1.salt.net.internet2.edu,SALT,SRX4100-SYS-JE-AC,DUMMY-1663269144-3622,Internet2 ISS Rack 003.003,35,Juniper SRX4100-SYS-JE-AC SRX4100-SYS-JE-AC
+monsoon-fw2.chic.net.internet2.edu,CHIC,SRX4100,DJ1122AR0069,Internet2 Monsoon ISS Rack [BBBL03592],34,Juniper SRX4100
+monsoon-fw2.salt.net.internet2.edu,SALT,SRX4100-SYS-JE-AC,DUMMY-1663270992-6334,Internet2 ISS Rack 003.003,34,Juniper SRX4100-SYS-JE-AC SRX4100-SYS-JE-AC
+monsoon-neat-patch1.salt,SALT,2RU Storage Tray,DUMMY-1674848941-1365,Internet2 ISS Rack 003.003,28,Generic 2RU Storage Tray
+monsoon-sw1.chic.net.internet2.edu,CHIC,QFX5120-48Y-8C,XH3122380249,Internet2 Monsoon ISS Rack [BBBL03592],30,Juniper QFX5120-48Y-8C
+monsoon-sw1.salt.net.internet2.edu,SALT,QFX5120-48Y-8C,XH3122100472,Internet2 ISS Rack 003.003,31,Juniper QFX5120-48Y-8C
+monsoon-sw2.chic.net.internet2.edu,CHIC,QFX5120-48Y-8C,XH3122380986,Internet2 Monsoon ISS Rack [BBBL03592],29,Juniper QFX5120-48Y-8C
+monsoon-sw2.salt.net.internet2.edu,SALT,QFX5120-48Y-8C,XH3122100556,Internet2 ISS Rack 003.003,30,Juniper QFX5120-48Y-8C
+monsoon-tap1.salt,SALT,1RU,DUMMY-1674848998-9668,Internet2 ISS Rack 003.003,33,Generic 1RU
+monsoon-term1.chic.net.internet2.edu,CHIC,IM7232-2-DAC,7.23223E+13,Internet2 Monsoon ISS Rack [BBBL03592],37,OpenGear IM7232-2-DAC
+monsoon-term1.salt.net.internet2.edu,SALT,B096-016,No,Internet2 ISS Rack 003.003,37,Opengear B096-016
+mpo-fdp.atla.net.internet2.edu,ATLA,1RU,DUMMY-1615256128-9104,Packet Rack [BBBL17833],17,Generic 1RU
+mpo-fdp.bois.net.internet2.edu,BOIS,1RU,DUMMY-1611990275-711,Internet2 Combined Rack [336482838],23,Generic 1RU
+mpo-fdp.cinc.net.internet2.edu,CINC,1RU,DUMMY-1615254168-435,Internet2 Packet Rack [338151658],20,Generic 1RU
+mpo-fdp.clev.net.internet2.edu,CLEV,1RU,DUMMY-1618236907-4696,Internet2 Packet Rack [BBHL46914],20,Generic 1RU
+mpo-fdp.dall.net.internet2.edu,DALL,generic-1-ru-patchpanel,mpo-fdp.dall.net.internet2.edu-chassis,Internet2 Packet Rack [BBMJ89508],14,Generic generic-1-ru-patchpanel
+mpo-fdp1.hous.net.internet2.edu,HOUS,generic-1-ru-patchpanel,mpo-fdp1.hous.net.internet2.edu-chassis,Internet2 Packet Rack [BBGD20172],20,Generic generic-1-ru-patchpanel
+mpo-fdp15.ashb.net.internet2.edu,ASHB,FDP 1RU,DUMMY-1622835580-5777,DMARC ONLY Rack [0000-21489273],8,ADC FDP 1RU
+mpo-fdp16.ashb.net.internet2.edu,ASHB,FDP 1RU,DUMMY-1622835554-4065,DMARC ONLY Rack [0000-21489273],10,ADC FDP 1RU
+mpo-fdp17.ashb.net.internet2.edu,ASHB,FDP 1RU,DUMMY-1622835525-2586,DMARC ONLY Rack [0000-21489273],24,ADC FDP 1RU
+mpo-fdp18.ashb.net.internet2.edu,ASHB,FDP 1RU,DUMMY-1622835498-849,DMARC ONLY Rack [0000-21489273],26,ADC FDP 1RU
+mpo-fdp2.atla.net.internet2.edu,ATLA,1RU,DUMMY-1615256135-6652,Packet Rack [BBBL17833],14,Generic 1RU
+mpo-fdp2.cinc.net.internet2.edu,CINC,1RU,DUMMY-1615254208-8370,Internet2 Packet Rack [338151658],17,Generic 1RU
+mpo-fdp2.clev.net.internet2.edu,CLEV,1RU,DUMMY-1618236930-3457,Internet2 Packet Rack [BBHL46914],17,Generic 1RU
+mpo-fdp2.dall.net.internet2.edu,DALL,generic-1-ru-patchpanel,mpo-fdp2.dall.net.internet2.edu-chassis,Internet2 Packet Rack [BBMJ89508],11,Generic generic-1-ru-patchpanel
+mpo-fdp2.hous.net.internet2.edu,HOUS,generic-1-ru-patchpanel,mpo-fdp2.hous.net.internet2.edu-chassis,Internet2 Packet Rack [BBGD20172],17,Generic generic-1-ru-patchpanel
+mpo-fdp4.ashb.net.internet2.edu,ASHB,1RU,DUMMY-1614719487-436,Internet2 Packet Rack [0102-21506670],26,Generic 1RU
+mpo-fdp5.ashb.net.internet2.edu,ASHB,1RU,DUMMY-1614719494-8174,Internet2 Packet Rack [0102-21506670],22,Generic 1RU
+mpo-fdp6.ashb.net.internet2.edu,ASHB,1RU,DUMMY-1614719514-2984,Internet2 Packet Rack [0102-21506670],19,Generic 1RU
+mpo-fdp6.dall3.net.internet2.edu,DALL3,FHU-96FLC12MSMF,DUMMY-1589294249-2123,NGI Combined Optical / Packet Cabinet,28,FiberStore FHU-96FLC12MSMF FHU-96FLC12MSMF
+mpo-fdp7.ashb.net.internet2.edu,ASHB,1RU,DUMMY-1614719523-6595,Internet2 Packet Rack [0102-21506670],16,Generic 1RU
+mpo-fdp7.dall3.net.internet2.edu,DALL3,FHU-96FLC12MSMF,DUMMY-1589294235-8395,NGI Combined Optical / Packet Cabinet,29,FiberStore FHU-96FLC12MSMF FHU-96FLC12MSMF
+nddi-dev.bldc.net.internet2.edu,BLDC,PowerEdge R410,B871XQ1,AX-14,12,Dell PowerEdge R410
+nddi-dev2.bldc.net.internet2.edu,BLDC,PowerEdge R410,B86ZWQ1,AX-14,11,Dell PowerEdge R410
+nso-sandbox.ns.internet2.edu,I2AA,OpenStack Compute,DUMMY-1665540950-1177,RR-I2AA-North.003,0,RDO OpenStack Compute
+nso.chic.net.internet2.edu,CHIC,LinuxKVM,nso.chic.net.internet2.edu-chassis,Internet2 Monsoon ISS Rack [BBBL03592],0,LinuxKVM LinuxKVM
+nso.chic.ns.internet2.edu,CHIC,LinuxKVM,nso.chic.ns.internet2.edu-chassis,Internet2 Monsoon ISS Rack [BBBL03592],0,LinuxKVM LinuxKVM
+nso.salt.net.internet2.edu,SALT,NSO,AUTOGENERATED-nso.salt.net.internet2.edu-Chassis,Internet2 ISS Rack 003.003,0,Cisco NSO
+nso.salt.ns.internet2.edu,SALT,LinuxKVM,nso.salt.ns.internet2.edu-chassis,Internet2 ISS Rack 003.003,0,LinuxKVM LinuxKVM
+opt.akro.net.internet2.edu,AKRO,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH91,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.alba.net.internet2.edu,ALBA,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0HKG4X,Internet2 Combined Rack [335802275],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.albu.net.internet2.edu,ALBU,6500 14-Slot Converged Optical Shelf Assembly,NNTMRT162JWF,Internet2 Optical Rack [338529712],1,Ciena 6500 14-Slot Converged Optical Shelf Assembly
+opt.alpi.net.internet2.edu,ALPI,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MD,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.amst2.net.internet2.edu,AMST2,6500 7-Slot Optical Shelf Assembly,NNTMRT0W1XMG,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ande.net.internet2.edu,ANDE,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6FN,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ango.net.internet2.edu,ANGO,6500 7-Slot Optical Shelf Assembly,NNTMRT03J378,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.arap.net.internet2.edu,ARAP,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH7T,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ashb.net.internet2.edu,ASHB,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0PEKV2,Internet2 Optical Rack [0101-21506669],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.atla.net.internet2.edu,ATLA,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT07KJ36,Internet2 Optical Rack [336409418],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.atlm.net.internet2.edu,ATLM,6500 14-Slot Converged Optical Shelf Assembly,NNTMRT043585,Internet2 Optical Rack,1,Ciena 6500 14-Slot Converged Optical Shelf Assembly
+opt.aubu.net.internet2.edu,AUBU,6500 7-Slot Optical Shelf Assembly,NNTMRT03J35R,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.aubu2.net.internet2.edu,AUBU2,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6J1,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ault.net.internet2.edu,AULT,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GK,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.aust.net.internet2.edu,AUST,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LY,Internet2 Optical Rack [BBWX1234],11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bake.net.internet2.edu,BAKE,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6FC,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bann.net.internet2.edu,BANN,6500 7-Slot Optical Shelf Assembly,NNTMRT04ELNX,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.barn.net.internet2.edu,BARN,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EK,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bars.net.internet2.edu,BARS,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6FH,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.basi.net.internet2.edu,BASI,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LD,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bata.net.internet2.edu,BATA,6500 7-Slot Optical Shelf Assembly,NNTMRT0W1XM6,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bato.net.internet2.edu,BATO,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0L5EM2,Internet2 Optical Rack [BBBL18798],8,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.baxl.net.internet2.edu,BAXL,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3DN,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bell.net.internet2.edu,BELL,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT03G6LF,Ciena Rack,1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.bens.net.internet2.edu,BENS,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNY0,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bern.net.internet2.edu,BERN,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJH,BNDONMACBRN1CA6I2577,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bery.net.internet2.edu,BERY,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MN,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.birm.net.internet2.edu,BIRM,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HX,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bloo.net.internet2.edu,BLOO,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGX2,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.blou.net.internet2.edu,BLOU,6500 7-Slot Optical Shelf Assembly,NNTMRT0496M9,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.boga.net.internet2.edu,BOGA,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3H7,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bois.net.internet2.edu,BOIS,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10F3EL,Internet2 Combined Rack [336482838],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.bosq.net.internet2.edu,BOSQ,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJP,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bost.net.internet2.edu,BOST,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10HV0V,Internet2 HD Optical Rack [4419042098],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.bost2.net.internet2.edu,BOST2,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YMJPW,Internet2 Combined Rack,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.bowi.net.internet2.edu,BOWI,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYY,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.brac.net.internet2.edu,BRAC,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MV,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.bren.net.internet2.edu,BREN,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LT,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.brid.net.internet2.edu,BRID,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3F1,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.buck2.net.internet2.edu,BUCK2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHC2,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.buff.net.internet2.edu,BUFF,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XKF6G,Internet2 Optical Rack [pending],28,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.buna.net.internet2.edu,BUNA,6500 7-Slot Optical Shelf Assembly,NNTMRT0496M4,Ciena optical,34,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.burn.net.internet2.edu,BURN,6500 7-Slot Optical Shelf Assembly,NNTMRT04MF72,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.byar.net.internet2.edu,BYAR,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GJ,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.cali.net.internet2.edu,CALI,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GD,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.cali2.net.internet2.edu,CALI2,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EP,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.cane.net.internet2.edu,CANE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EF,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.cast.net.internet2.edu,CAST,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYJ,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.cent2.net.internet2.edu,CENT2,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGW0,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.chal.net.internet2.edu,CHAL,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH84,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.chan.net.internet2.edu,CHAN,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EJ,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.char.net.internet2.edu,CHAR,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10F3ET,Internet2 Combined HD Cabinet [441904296],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.chem.net.internet2.edu,CHEM,6500 7-Slot Optical Shelf Assembly,NNTMRT04MF77,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ches.net.internet2.edu,CHES,6500 7-Slot Optical Shelf Assembly,NNTMRT03J373,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.chey3.net.internet2.edu,CHEY3,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8P,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.chic.net.internet2.edu,CHIC,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0RN4E1,Internet2 Optical Rack [BBBL03590],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.cinc.net.internet2.edu,CINC,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0RLRL8,Internet2 Optical Rack [336588838],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.clee.net.internet2.edu,CLEE,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6J5,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.clev.net.internet2.edu,CLEV,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0RGGLV,Internet2 Optical Rack [336030196],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.coal2.net.internet2.edu,COAL2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9V,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.colo.net.internet2.edu,COLO,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYT,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.colu2.net.internet2.edu,COLU2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH93,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.colu3.net.internet2.edu,COLU3,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYH,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.colu5.net.internet2.edu,COLU5,6500-7 Packet-Optical Shelf Assembly,NNTMRT1FFMRY,Ciena Rack,1,Ciena 6500-7 Packet-Optical Shelf Assembly
+opt.coms.net.internet2.edu,COMS,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MG,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.corn.net.internet2.edu,CORN,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJ8,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.cors.net.internet2.edu,CORS,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6G2,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.crow.net.internet2.edu,CROW,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGTR,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.culb.net.internet2.edu,CULB,6500 14-Slot Converged Optical Shelf Assembly,NNTMRN000301,Ciena Rack,1,Ciena 6500 14-Slot Converged Optical Shelf Assembly
+opt.cumb.net.internet2.edu,CUMB,6500 7-Slot Optical Shelf Assembly,NNTMRT03J351,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.dall.net.internet2.edu,DALL,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT07KJ1K,Internet2 Optical Rack [337304945],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.dall3.net.internet2.edu,DALL3,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XKM13,NGI Combined Optical / Packet Cabinet,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.dayt.net.internet2.edu,DAYT,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHC4,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.defu.net.internet2.edu,DEFU,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G2,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.delr.net.internet2.edu,DELR,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MR,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.delt.net.internet2.edu,DELT,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH7Y,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.demi.net.internet2.edu,DEMI,6500 7-Slot Optical Shelf Assembly,NNTMRT04F1XM,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.dent.net.internet2.edu,DENT,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GX,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.denv.net.internet2.edu,DENV,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0TEW80,Internet2 Optical Rack [335494621],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.dinw.net.internet2.edu,DINW,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3H5,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.dona.net.internet2.edu,DONA,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJN,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.drag.net.internet2.edu,DRAG,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNXX,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.drum.net.internet2.edu,DRUM,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GK,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.durk.net.internet2.edu,DURK,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GC,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.echo.net.internet2.edu,ECHO,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0L3JV0,Ciena Rack,31,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.elko.net.internet2.edu,ELKO,6500 7-Slot Optical Shelf Assembly,NNTMRT03J35T,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.elpa.net.internet2.edu,ELPA,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT06GMVR,Internet2 Optical Rack [344159570],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.elwo.net.internet2.edu,ELWO,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGVG,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.emig.net.internet2.edu,EMIG,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36J,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.engl.net.internet2.edu,ENGL,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJJ,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.eqch.net.internet2.edu,EQCH,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0VFK19,Internet2 NGI Optical Rack,1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.euge.net.internet2.edu,EUGE,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT04KYRK,Internet2 NGI optical Rack,11,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.eure.net.internet2.edu,EURE,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10FRNT,Ciena Rack,17,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.evan.net.internet2.edu,EVAN,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9T,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.fall.net.internet2.edu,FALL,6500 7-Slot Optical Shelf Assembly,NNTMRT03J35V,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.faye.net.internet2.edu,FAYE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36R,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.flor.net.internet2.edu,FLOR,6500 7-Slot Optical Shelf Assembly,NNTMRT04F1XR,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.folk.net.internet2.edu,FOLK,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3D9,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.fore.net.internet2.edu,FORE,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGX5,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.fort2.net.internet2.edu,FORT2,6500 7-Slot Optical Shelf Assembly,NNTMRT04F1XN,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.fort3.net.internet2.edu,FORT3,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6F7,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.fred.net.internet2.edu,FRED,6500 7-Slot Optical Shelf Assembly,NNTMRT03J354,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.free.net.internet2.edu,FREE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J39D,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.frem2.net.internet2.edu,FREM2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9X,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gaff.net.internet2.edu,GAFF,6500 7-Slot Optical Shelf Assembly,NNTMRT03J39X,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gidd.net.internet2.edu,GIDD,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LX,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.golc.net.internet2.edu,GOLC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J35P,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.good2.net.internet2.edu,GOOD2,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3F0,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gord.net.internet2.edu,GORD,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3DT,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.graf.net.internet2.edu,GRAF,6500 7-Slot Optical Shelf Assembly,NNTMRT0397TR,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gran.net.internet2.edu,GRAN,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9H,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gree.net.internet2.edu,GREE,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LH,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gree2.net.internet2.edu,GREE2,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6J9,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.gree3.net.internet2.edu,GREE3,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8C,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.haig.net.internet2.edu,HAIG,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HG,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hanc.net.internet2.edu,HANC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J353,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.harm.net.internet2.edu,HARM,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH85,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hart2.net.internet2.edu,HART2,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10GK2K,Combined HD Cabinet [441916754],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.heart.net.internet2.edu,HEART,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH7V,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hera.net.internet2.edu,HERA,6500 7-Slot Optical Shelf Assembly,NNTMRT03J377,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hond.net.internet2.edu,HOND,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MP,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hopw.net.internet2.edu,HOPW,6500 7-Slot Optical Shelf Assembly,NNTMRT03J352,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hosf.net.internet2.edu,HOSF,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GH,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.houh.net.internet2.edu,HOUH,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XHTRE,Internet2 Combined Rack [336919546],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.hous.net.internet2.edu,HOUS,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT03G6JR,Internet2 Optical Rack [336784324],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.howe.net.internet2.edu,HOWE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EV,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.huds.net.internet2.edu,HUDS,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36E,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.huff.net.internet2.edu,HUFF,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LC,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hunt.net.internet2.edu,HUNT,6500 7-Slot Optical Shelf Assembly,NNTMRT03J39K,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hunt2.net.internet2.edu,HUNT2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCN,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.hyde.net.internet2.edu,HYDE,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GP,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.indi.net.internet2.edu,INDI,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT1001L8,Internet2 Combined Rack,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.indi4.net.internet2.edu,INDI4,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HM,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.iowa.net.internet2.edu,IOWA,6500 7-Slot Optical Shelf Assembly,NNTMHQDQ0237,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.irvi.net.internet2.edu,IRVI,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8L,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.jack.net.internet2.edu,JACK,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XHFYX,Internet2 HD Combined Rack [337031122],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.jack3.net.internet2.edu,JACK3,6500 7-Slot Optical Shelf Assembly,NNTMRT0496M1,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.jcsn.net.internet2.edu,JCSN,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10FM8V,Internet2 Combined Rack [336586310],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.jean.net.internet2.edu,JEAN,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EM,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.kans.net.internet2.edu,KANS,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0L24KX,Internet2 Optical Rack [335306828],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.kels.net.internet2.edu,KELS,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYV,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.kinc.net.internet2.edu,KINC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EH,Ciena,34,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.king.net.internet2.edu,KING,6500 7-Slot Optical Shelf Assembly,NNTMRT0496M0,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.king2.net.internet2.edu,KING2,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3DH,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.knip.net.internet2.edu,KNIP,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MM,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.knol.net.internet2.edu,KNOL,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9D,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lacy.net.internet2.edu,LACY,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT04KYT0,Internet2 NGI Optical Rack,11,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.lafa.net.internet2.edu,LAFA,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3CE,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lagr.net.internet2.edu,LAGR,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G7,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lake.net.internet2.edu,LAKE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3F5,LKCYFL01LKC1CA6I2518,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lamy.net.internet2.edu,LAMY,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYR,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lanc.net.internet2.edu,LANC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EX,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lang.net.internet2.edu,LANG,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MK,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lara2.net.internet2.edu,LARA2,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GG,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lasc.net.internet2.edu,LASC,6500 7-Slot Optical Shelf Assembly,NNTMRT04F1XV,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lasv.net.internet2.edu,LASV,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10D7X2,Internet2 Combined Rack [336130858],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.lasv2.net.internet2.edu,LASV2,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYX,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lee.net.internet2.edu,LEE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3ED,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.libe.net.internet2.edu,LIBE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3CC,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.linc.net.internet2.edu,LINC,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HE,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.litt2.net.internet2.edu,LITT2,6500 7-Slot Optical Shelf Assembly,NNTMRT0W1XM4,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.lord.net.internet2.edu,LORD,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNXY,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.losa.net.internet2.edu,LOSA,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0XKCY5,Internet2 NGI Optical [336292980],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.losa2.net.internet2.edu,LOSA2,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT100RFW,Internet2 NGI Combined Optical / Packet,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.loui.net.internet2.edu,LOUI,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YFH7F,Internet Combined Rack [336583396],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.love.net.internet2.edu,LOVE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J365,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.madi2.net.internet2.edu,MADI2,6500 7-Slot Optical Shelf Assembly,NNTMRT03J39L,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mara.net.internet2.edu,MARA,6500 7-Slot Optical Shelf Assembly,NNTMRT0496ME,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.marf.net.internet2.edu,MARF,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MF,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mart.net.internet2.edu,MART,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGTJ,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.meba.net.internet2.edu,MEBA,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6JD,Ciena optical,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.medi.net.internet2.edu,MEDI,6500 7-Slot Optical Shelf Assembly,NNTMRT04MF70,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.memp.net.internet2.edu,MEMP,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT04M4HK,Internet2 Optical Rack [BBXP0888],11,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.mend.net.internet2.edu,MEND,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L9,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.meta.net.internet2.edu,META,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCJ,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.milf.net.internet2.edu,MILF,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3ET,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mill.net.internet2.edu,MILL,6500 7-Slot Optical Shelf Assembly,NNTMRT03J360,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mill3.net.internet2.edu,MILL3,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GV,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.milt.net.internet2.edu,MILT,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HP,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mobi.net.internet2.edu,MOBI,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XKF5W,Ciena optical,11,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.mobi2.net.internet2.edu,MOBI2,6500 7-Slot Optical Shelf Assembly,NNTMRT03J398,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mode.net.internet2.edu,MODE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J376,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.modo.net.internet2.edu,MODO,6500 7-Slot Optical Shelf Assembly,NNTMRT04MF6T,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.monm.net.internet2.edu,MONM,6500 7-Slot Optical Shelf Assembly,NNTMRT0397TK,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mont2.net.internet2.edu,MONT2,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6G3,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mont3.net.internet2.edu,MONT3,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3DL,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mtgl.net.internet2.edu,MTGL,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHC6,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.mtpl.net.internet2.edu,MTPL,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L6,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.nash.net.internet2.edu,NASH,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT03G6KF,Internet2 Optical Rack [336584329],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.nash2.net.internet2.edu,NASH2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8J,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.newh.net.internet2.edu,NEWH,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCK,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.newl.net.internet2.edu,NEWL,6500 7-Slot Optical Shelf Assembly,NNTMRT06NKN5,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.newy32aoa.net.internet2.edu,NEWY32AOA,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT0VWGNJ,Internet2 NGI Optical,1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.nila.net.internet2.edu,NILA,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YMJPJ,Ciena Rack,31,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.norl.net.internet2.edu,NORL,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3D3,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.nort.net.internet2.edu,NORT,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G1,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.oakl2.net.internet2.edu,OAKL2,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYN,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.oakr2.net.internet2.edu,OAKR2,6500 7-Slot Optical Shelf Assembly,NNTMRT04MF75,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.oasi.net.internet2.edu,OASI,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36K,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.odel.net.internet2.edu,ODEL,6500 7-Slot Optical Shelf Assembly,NNTMRT0W1XLY,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ogde.net.internet2.edu,OGDE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G9,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.onta.net.internet2.edu,ONTA,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EW,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.oran.net.internet2.edu,ORAN,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3CD,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.otis.net.internet2.edu,OTIS,6500 7-Slot Optical Shelf Assembly,NNTMHQDQ0239,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.palo2.net.internet2.edu,PALO2,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJF,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.pass.net.internet2.edu,PASS,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3DD,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.pend.net.internet2.edu,PEND,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6J0,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.pens.net.internet2.edu,PENS,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XM945,Internet2 Combined Rack [337170542],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.perr.net.internet2.edu,PERR,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6H5,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.phil.net.internet2.edu,PHIL,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10D7WP,Internet2 Combined Rack [336087578],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.phoe.net.internet2.edu,PHOE,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YMJPT,Internet2 Combined Rack | 336408118,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.pitt.net.internet2.edu,PITT,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YLYGP,Internet2 Combined Rack [345031055],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.plai2.net.internet2.edu,PLAI2,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGW4,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.plea.net.internet2.edu,PLEA,6500 7-Slot Optical Shelf Assembly,NNTMRT03J371,Ciena Rack,22,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.pomo.net.internet2.edu,POMO,6500 7-Slot Optical Shelf Assembly,NNTMRT04HNJC,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.port.net.internet2.edu,PORT,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YM2X5,Internet2 Combined 4 Post Rack [337939576],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.prom.net.internet2.edu,PROM,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCP,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.pros.net.internet2.edu,PROS,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G8,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.prov.net.internet2.edu,PROV,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10GK2M,Ciena Rack,31,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.pueb.net.internet2.edu,PUEB,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT04KYT2,Internet2 Optical Rack [BBWL8530],11,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.ragl.net.internet2.edu,RAGL,6500 7-Slot Optical Shelf Assembly,NNTMRT0496M2,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rale.net.internet2.edu,RALE,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT10FRP2,Internet2 Combined HD Cabinet,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.rato.net.internet2.edu,RATO,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYM,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.redr.net.internet2.edu,REDR,6500 7-Slot Optical Shelf Assembly,NNTMRT04F1XP,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.reno.net.internet2.edu,RENO,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YM2WJ,Internet2 Combined 4 Post Rack [338007980],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.reub.net.internet2.edu,REUB,6500 7-Slot Optical Shelf Assembly,NNTMRT03J379,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.reve.net.internet2.edu,REVE,6500 7-Slot Optical Shelf Assembly,NNTMHQDQ0241,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rexv.net.internet2.edu,REXV,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8D,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rich.net.internet2.edu,RICH,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3FG,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rive.net.internet2.edu,RIVE,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GW,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.robb.net.internet2.edu,ROBB,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6G4,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.robe.net.internet2.edu,ROBE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G5,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rock.net.internet2.edu,ROCK,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GE,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rome3.net.internet2.edu,ROME3,6500 7-Slot Optical Shelf Assembly,NNTMRT0RFM2L,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.rupe.net.internet2.edu,RUPE,6500 7-Slot Optical Shelf Assembly,NNTMHQDQ0243,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sacr.net.internet2.edu,SACR,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT045PVJ,Internet2 Optical Rack [442048518],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.sain2.net.internet2.edu,SAIN2,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0TNGM5,Internet2 Optical Rack [pending],23,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.sale.net.internet2.edu,SALE,6500 7-Slot Optical Shelf Assembly,NNTMRT04R9FK,Ciena optical,34,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sali.net.internet2.edu,SALI,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6JC,Ciena optical,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.salt.net.internet2.edu,SALT,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT03GK1N,Internet2 Optical Rack | 336911578,1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.sana.net.internet2.edu,SANA,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YEDF7,Internet2 NGI Optical Rack [337006509],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.sanb.net.internet2.edu,SANB,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HR,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sand2.net.internet2.edu,SAND2,6500 14-Slot Converged Optical Shelf Assembly,NNTMRT043583,Ciena optical,11,Ciena 6500 14-Slot Converged Optical Shelf Assembly
+opt.sanj.net.internet2.edu,SANJ,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0P6NGV,Internet2 NGI Combined Optical / Packet Cabinet,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.sava.net.internet2.edu,SAVA,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L3,Ciena optical,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sava2.net.internet2.edu,SAVA2,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L4,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sayb.net.internet2.edu,SAYB,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36V,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.seat.net.internet2.edu,SEAT,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT045PVK,Internet2 Optical Rack 4post,1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.semi.net.internet2.edu,SEMI,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LG,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.shaw.net.internet2.edu,SHAW,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GN,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.shel.net.internet2.edu,SHEL,6500 7-Slot Optical Shelf Assembly,NNTMRT04MF73,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.ship.net.internet2.edu,SHIP,6500 7-Slot Optical Shelf Assembly,NNTMRT0W1XM0,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sido.net.internet2.edu,SIDO,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L5,Ciena optical,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.silv.net.internet2.edu,SILV,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYW,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.slid.net.internet2.edu,SLID,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3CR,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sope.net.internet2.edu,SOPE,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3E4,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sorr.net.internet2.edu,SORR,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36X,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sour.net.internet2.edu,SOUR,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LF,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sout2.net.internet2.edu,SOUT2,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCR,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.spri3.net.internet2.edu,SPRI3,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EC,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.spri4.net.internet2.edu,SPRI4,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3EL,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.spri5.net.internet2.edu,SPRI5,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G6,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.spri6.net.internet2.edu,SPRI6,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGTW,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.stam.net.internet2.edu,STAM,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HY,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.star.net.internet2.edu,STAR,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0W6KXT,Internet2 Combined Rack,1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.stoc.net.internet2.edu,STOC,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCD,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.stov.net.internet2.edu,STOV,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L7,Ciena optical,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.suis2.net.internet2.edu,SUIS2,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYK,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.sunn.net.internet2.edu,SUNN,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT03GK50,Internet2 Optical Rack [338270522],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.tabl.net.internet2.edu,TABL,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9W,Ciena Rack,25,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.tall.net.internet2.edu,TALL,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36D,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.tall4.net.internet2.edu,TALL4,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HF,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.tebb.net.internet2.edu,TEBB,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGX3,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.thac.net.internet2.edu,THAC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3GF,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.thor.net.internet2.edu,THOR,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH86,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.timp.net.internet2.edu,TIMP,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8V,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.tion.net.internet2.edu,TION,6500 14-Slot Converged Optical Shelf Assembly,NNTMRT04358D,Ciena optical,11,Ciena 6500 14-Slot Converged Optical Shelf Assembly
+opt.tipt.net.internet2.edu,TIPT,6500 7-Slot Optical Shelf Assembly,NNTMRT0RKGVL,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.tole2.net.internet2.edu,TOLE2,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0XHG03,Internet2 Combined Rack [BBPC1224],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.torn.net.internet2.edu,TORN,6500 7-Slot Optical Shelf Assembly,NNTMRT0496ML,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.trac.net.internet2.edu,TRAC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J36T,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.truc.net.internet2.edu,TRUC,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH8T,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.tucs.net.internet2.edu,TUCS,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0YMJPK,Internet2 Combined HD Rack [336408315],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.tuls.net.internet2.edu,TULS,6500 14-Slot Packet-Optical Shelf Assembly,NNTMRT0VY4YC,Internet2 Combined Rack [338084659],1,Ciena 6500 14-Slot Packet-Optical Shelf Assembly
+opt.tyle.net.internet2.edu,TYLE,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LE,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.vale.net.internet2.edu,VALE,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MJ,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.vanc.net.internet2.edu,VANC,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G4,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.vanh.net.internet2.edu,VANH,6500 7-Slot Optical Shelf Assembly,NNTMRT0496MH,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.verm.net.internet2.edu,VERM,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH97,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.vern.net.internet2.edu,VERN,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3ER,Ciena,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.waco.net.internet2.edu,WACO,6500 7-Slot Optical Shelf Assembly,NNTMRT04ELNY,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wago.net.internet2.edu,WAGO,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYL,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.walc.net.internet2.edu,WALC,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GN,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wall.net.internet2.edu,WALL,6500 7-Slot Optical Shelf Assembly,NNTMRT0496LM,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.waln.net.internet2.edu,WALN,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L2,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wals.net.internet2.edu,WALS,6500 7-Slot Optical Shelf Assembly,NNTMRT04GNYP,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wash.net.internet2.edu,WASH,6500 32-Slot Packet-Optical Shelf Assembly,NNTMRT050YMF,Internet2 Optical Rack [344224121]],1,Ciena 6500 32-Slot Packet-Optical Shelf Assembly
+opt.wash3.net.internet2.edu,WASH3,6500 14-Slot Converged Optical Shelf Assembly,NNTMRT044HYW,Ciena optical,11,Ciena 6500 14-Slot Converged Optical Shelf Assembly
+opt.wate4.net.internet2.edu,WATE4,6500 7-Slot Optical Shelf Assembly,NNTMRT0W1XM7,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.well.net.internet2.edu,WELL,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9E,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wend.net.internet2.edu,WEND,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3C7,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wesl.net.internet2.edu,WESL,6500 7-Slot Optical Shelf Assembly,NNTMRT03HHCF,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.west.net.internet2.edu,WEST,6500 7-Slot Optical Shelf Assembly,NNTMRT0RFM2K,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wigg.net.internet2.edu,WIGG,6500 7-Slot Optical Shelf Assembly,NNTMRT0496M6,Ciena Rack,1,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wilm.net.internet2.edu,WILM,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6GX,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.winn.net.internet2.edu,WINN,6500 7-Slot Optical Shelf Assembly,NNTMRT03J37E,Ciena Rack,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.wint.net.internet2.edu,WINT,6500 7-Slot Optical Shelf Assembly,NNTMRT03HH9G,Ciena Rack,31,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.worc.net.internet2.edu,WORC,6500 7-Slot Optical Shelf Assembly,NNTMHQDQ0235,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.yaki.net.internet2.edu,YAKI,6500 7-Slot Optical Shelf Assembly,NNTMRT03J3G0,Ciena Rack,20,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.yazo.net.internet2.edu,YAZO,6500 7-Slot Optical Shelf Assembly,NNTMRT0496L8,Ciena optical,17,Ciena 6500 7-Slot Optical Shelf Assembly
+opt.youn.net.internet2.edu,YOUN,6500 7-Slot Optical Shelf Assembly,NNTMRT03G6HK,Ciena optical,11,Ciena 6500 7-Slot Optical Shelf Assembly
+opt1.colu6.net.internet2.edu,COLU6,6500-7 Packet-Optical Shelf Assembly,NNTMRT1FFMT1,Management Gear / Misc / Available,1,Ciena 6500-7 Packet-Optical Shelf Assembly
+opt1.fann.net.internet2.edu,FANN,6500 4-Slot Optical Shelf Assembly,NNTMRT1JW786,LEARN Rack (FANNIN/7B104),15,Ciena 6500 4-Slot Optical Shelf Assembly
+opt1.newa.net.internet2.edu,NEWA,6500-7 Packet-Optical Shelf Assembly,NNTMRT1CD8JW,Internet2 Combination Rack (Primary),1,Ciena 6500-7 Packet-Optical Shelf Assembly
+opt2.fann.net.internet2.edu,FANN,6500 4-Slot Optical Shelf Assembly,NNTMRT1JW784,LEARN Rack (FANNIN/7B104),8,Ciena 6500 4-Slot Optical Shelf Assembly
+opt2.newa.net.internet2.edu,NEWA,6500-7 Packet-Optical Shelf Assembly,NNTMRT1C2VT6,Internet2 Combination Rack (Primary),8,Ciena 6500-7 Packet-Optical Shelf Assembly
+osdf1.amst.net.internet2.edu,AMST,,S263479X9518910,Internet2 AMST rack at Netherlight,37,SuperMicro
+pas.alba.net.internet2.edu,ALBA,unknown,DUMMY-1610400924-9948,Internet2 Combined Rack [335802275],25,Dell unknown
+pas.ashb.net.internet2.edu,ASHB,unknown,DUMMY-1614718775-6230,Internet2 Optical Rack [0101-21506669],36,Dell unknown
+pas.bois.net.internet2.edu,BOIS,unknown,DUMMY-1611593902-1289,Internet2 Combined Rack [336482838],25,Dell unknown
+pas.bost.net.internet2.edu,BOST,unknown,pas.bost.net.internet2.edu-chassis,Internet2 HD Optical Rack [4419042098],22,Dell unknown
+pas.bost2.net.internet2.edu,BOST2,unknown,DUMMY-1701114198-5065,Internet2 Combined Rack,25,Dell unknown
+pas.char.net.internet2.edu,CHAR,unknown,DUMMY-1617129259-5402,Internet2 Combined HD Cabinet [441904296],25,Dell unknown
+pas.chic.net.internet2.edu,CHIC,unknown,DUMMY-1613499920-2956,Internet2 Packet Rack [BBDN24324],18,Dell unknown
+pas.cinc.net.internet2.edu,CINC,unknown,DUMMY-1615254400-7024,Internet2 Packet Rack [338151658],22,Dell unknown
+pas.clev.net.internet2.edu,CLEV,unknown,DUMMY-1618236639-1121,Internet2 Packet Rack [BBHL46914],22,Dell unknown
+pas.dall.net.internet2.edu,DALL,unknown,DUMMY-1610485236-5048,Internet2 Packet Rack [BBMJ89508],16,Dell unknown
+pas.dall3.net.internet2.edu,DALL3,unknown,DUMMY-1617133847-6699,NGI Combined Optical / Packet Cabinet,21,Dell unknown
+pas.denv.net.internet2.edu,DENV,unknown,DUMMY-1617132210-3109,Internet2 Optical Rack [335494621],33,Dell unknown
+pas.elpa.net.internet2.edu,ELPA,unknown,DUMMY-1611593131-143,Internet2 Packet Rack [344159569],35,Dell unknown
+pas.eqch.net.internet2.edu,EQCH,unknown,DUMMY-1611588677-1105,Internet2 NGI Packet Rack,23,Dell unknown
+pas.hart2.net.internet2.edu,HART2,unknown,DUMMY-1617138604-6705,Combined HD Cabinet [441916754],25,Dell unknown
+pas.holy.net.internet2.edu,HOLY,unknown,pas.holy.net.internet2.edu-chassis,(NEREN Owned) Packet Rack,24,Dell unknown
+pas.houh.net.internet2.edu,HOUH,unknown,DUMMY-1613231444-1447,Internet2 Combined Rack [336919546],25,Dell unknown
+pas.hous.net.internet2.edu,HOUS,unknown,DUMMY-1617045779-3075,Internet2 Packet Rack [BBGD20172],22,Dell unknown
+pas.indi.net.internet2.edu,INDI,unknown,DUMMY-1620935009-770,Internet2 Combined Rack,28,Dell unknown
+pas.jack.net.internet2.edu,JACK,unknown,DUMMY-1617989871-6905,Internet2 HD Combined Rack [337031122],25,Dell unknown
+pas.jcsn.net.internet2.edu,JCSN,unknown,DUMMY-1614358609-3518,Internet2 Combined Rack [336586310],25,Dell unknown
+pas.lasv.net.internet2.edu,LASV,unknown,DUMMY-1610402324-670,Internet2 Combined Rack [336130858],25,Dell unknown
+pas.losa.net.internet2.edu,LOSA,unknown,DUMMY-1617131582-7637,Internet2 Packet / TSG Rack [338555815],26,Dell unknown
+pas.losa2.net.internet2.edu,LOSA2,unknown,DUMMY-1617135328-4003,Internet2 NGI Combined Optical / Packet,29,Dell unknown
+pas.loui.net.internet2.edu,LOUI,unknown,DUMMY-1617212315-7620,Internet Combined Rack [336583396],25,Dell unknown
+pas.minn.net.internet2.edu,MINN,unknown,DUMMY-1632617665-4538,Internet2 Combined Rack,18,Dell unknown
+pas.miss.net.internet2.edu,MISS,unknown,DUMMY-1617980142-2698,Internet2 NGI Packet Rack,25,Dell unknown
+pas.nash.net.internet2.edu,NASH,unknown,DUMMY-1617128347-9707,Internet2 Packet Rack [338553090],22,Dell unknown
+pas.newy32aoa.net.internet2.edu,NEWY32AOA,unknown,DUMMY-1611083766-6801,Internet2 NGI Packet / MAN LAN,22,Dell unknown
+pas.pens.net.internet2.edu,PENS,unknown,DUMMY-1618425201-5860,Internet2 Combined Rack [337170542],25,Dell unknown
+pas.phil.net.internet2.edu,PHIL,unknown,DUMMY-1613489427-8410,Internet2 Combined Rack [336087578],25,Dell unknown
+pas.phoe.net.internet2.edu,PHOE,unknown,DUMMY-1614875527-764,Internet2 Combined Rack | 336408118,22,Dell unknown
+pas.pitt.net.internet2.edu,PITT,unknown,DUMMY-1615248418-5386,Internet2 Combined Rack [345031055],25,Dell unknown
+pas.port.net.internet2.edu,PORT,unknown,DUMMY-1617303124-5545,Internet2 Combined 4 Post Rack [337939576],25,Dell unknown
+pas.rale.net.internet2.edu,RALE,unknown,DUMMY-1617213587-4461,Internet2 Combined HD Cabinet,25,Dell unknown
+pas.reno.net.internet2.edu,RENO,unknown,FKCWH63,Internet2 Combined 4 Post Rack [338007980],25,Dell unknown
+pas.sacr.net.internet2.edu,SACR,unknown,DUMMY-1617126638-9014,Internet2 Packet Rack | 338151968,22,Dell unknown
+pas.salt.net.internet2.edu,SALT,unknown,DUMMY-1617214833-9177,Internet2 Packet 4 post Rack [338268901],22,Dell unknown
+pas.seat.net.internet2.edu,SEAT,unknown,DUMMY-1619710275-5586,Internet2 Optical Rack 4post,34,Dell unknown
+pas.star.net.internet2.edu,STAR,unknown,DUMMY-1618342370-8542,Internet2 Combined Rack,25,Dell unknown
+pas.sunn.net.internet2.edu,SUNN,unknown,DUMMY-1614717399-3129,Internet2 Packet Rack [336784820],22,Dell unknown
+pas.tole2.net.internet2.edu,TOLE2,unknown,DUMMY-1616433393-4468,Internet2 Combined Rack [BBPC1224],25,Dell unknown
+pas.tucs.net.internet2.edu,TUCS,unknown,DUMMY-1611328312-9095,Internet2 Combined HD Rack [336408315],25,Dell unknown
+pas.tuls.net.internet2.edu,TULS,unknown,DUMMY-1611611351-1603,Internet2 Combined Rack [338084659],26,Dell unknown
+pas.wash.net.internet2.edu,WASH,unknown,DUMMY-1614711223-7195,Internet2 Packet/WIX Rack [344224120],24,Dell unknown
+ps.alba.net.internet2.edu,ALBA,1RU,ps.alba.net.internet2.edu-chassis,Available [BBFG31122],0,Generic 1RU
+rancher.k8s.grnoc.iu.edu,bldc,OpenStack Nova,rancher.k8s.grnoc.iu.edu-chassis,Virtual Rack,0,OpenStack Foundation OpenStack Nova
+smn-fw1.chic.net.internet2.edu,CHIC,SRX1500,DB5219AK0271,Internet2 Packet Rack [BBDN24324],26,Juniper SRX1500
+smn-fw1.holy.net.internet2.edu,HOLY,SRX345-DUAL-AC,DS1024AX0206,(NEREN Owned) Packet Rack,27,Juniper SRX345-DUAL-AC
+smn-fw1.indi.net.internet2.edu,INDI,SRX1500,DB5219AK0280,Internet2 Combined Rack,16,Juniper SRX1500
+smn-fw1.miss.net.internet2.edu,MISS,SRX345-DC,DT2419AF0046,Internet2 NGI Packet Rack,26,Juniper SRX345-DC
+smn-fw1.salt.net.internet2.edu,SALT,SRX1500,DB5219AK0275,Internet2 Packet 4 post Rack [338268901],25,Juniper SRX1500
+smn-fw1.wash.net.internet2.edu,WASH,SRX1500,DB5219AK0273,Internet2 Packet/WIX Rack [344224120],31,Juniper SRX1500
+smn-rtsw1.alba.net.internet2.edu,ALBA,EX4600-40F,TC3719420288,Internet2 Combined Rack [335802275],30,Juniper EX4600-40F
+smn-rtsw1.albu.net.internet2.edu,ALBU,EX4600-40F,TC3122270244,Internet2 Optical Rack [338529712],30,Juniper EX4600-40F
+smn-rtsw1.ashb.net.internet2.edu,ASHB,EX4600-40F,TC3719510148,Internet2 Optical Rack [0101-21506669],39,Juniper EX4600-40F
+smn-rtsw1.atla.net.internet2.edu,ATLA,EX4600-40F,TC3719510021,Packet Rack [BBBL17833],27,Juniper EX4600-40F
+smn-rtsw1.atlm.net.internet2.edu,ATLM,EX4600-40F,TC3719420493,Internet2 Optical Rack,35,Juniper EX4600-40F
+smn-rtsw1.bato.net.internet2.edu,BATO,EX4600-40F,TC3718410039,Internet2 Packet Rack [BBLQ26391],36,Juniper EX4600-40F
+smn-rtsw1.bois.net.internet2.edu,BOIS,EX4600-40F,TC3719510003,Internet2 Combined Rack [336482838],30,Juniper EX4600-40F
+smn-rtsw1.bost.net.internet2.edu,BOST,EX4600-40F,TC3122190041,Internet2 HD Optical Rack [4419042098],23,Juniper EX4600-40F
+smn-rtsw1.bost2.net.internet2.edu,BOST2,EX4600-40F,TC3718520461,Internet2 Combined Rack,29,Juniper EX4600-40F
+smn-rtsw1.char.net.internet2.edu,CHAR,EX4600-40F,TC3719420496,Internet2 Combined HD Cabinet [441904296],30,Juniper EX4600-40F
+smn-rtsw1.chic.net.internet2.edu,CHIC,EX4600-40F,TC3719340111,Internet2 Packet Rack [BBDN24324],28,Juniper EX4600-40F
+smn-rtsw1.cinc.net.internet2.edu,CINC,EX4600-40F,TC3719420499,Internet2 Packet Rack [338151658],31,Juniper EX4600-40F
+smn-rtsw1.clev.net.internet2.edu,CLEV,EX4600-40F,TC3719420474,Internet2 Packet Rack [BBHL46914],31,Juniper EX4600-40F
+smn-rtsw1.dall.net.internet2.edu,DALL,EX4600-40F,TC3719420512,Internet2 Packet Rack [BBMJ89508],29,Juniper EX4600-40F
+smn-rtsw1.dall3.net.internet2.edu,DALL3,EX4600-40F,TC3719510032,NGI Combined Optical / Packet Cabinet,22,Juniper EX4600-40F
+smn-rtsw1.denv.net.internet2.edu,DENV,EX4600-40F,TC3719510047,Internet2 Optical Rack [335494621],36,Juniper EX4600-40F
+smn-rtsw1.elpa.net.internet2.edu,ELPA,EX4600-40F,TC3719510030,Internet2 Packet Rack [344159569],37,Juniper EX4600-40F
+smn-rtsw1.eqch.net.internet2.edu,EQCH,EX4600-40F,TC3719510020,Internet2 NGI Packet Rack,29,Juniper EX4600-40F
+smn-rtsw1.euge.net.internet2.edu,EUGE,EX4600-40F,TC3719510004,Internet2 NGI optical Rack,38,Juniper EX4600-40F
+smn-rtsw1.hart2.net.internet2.edu,HART2,EX4600-40F,TC3719420530,Combined HD Cabinet [441916754],30,Juniper EX4600-40F
+smn-rtsw1.holy.net.internet2.edu,HOLY,EX4600-40F,TC3122480266,(NEREN Owned) Packet Rack,25,Juniper EX4600-40F
+smn-rtsw1.houh.net.internet2.edu,HOUH,EX4600-40F,TC3719340124,Internet2 Combined Rack [336919546],30,Juniper EX4600-40F
+smn-rtsw1.hous.net.internet2.edu,HOUS,EX4600-40F,TC3714260001,Internet2 Packet Rack [BBGD20172],31,Juniper EX4600-40F
+smn-rtsw1.indi.net.internet2.edu,INDI,EX4600-40F,TC3719340234,Internet2 Combined Rack,17,Juniper EX4600-40F
+smn-rtsw1.jack.net.internet2.edu,JACK,EX4600-40F,TC3719420534,Internet2 HD Combined Rack [337031122],30,Juniper EX4600-40F
+smn-rtsw1.jcsn.net.internet2.edu,JCSN,EX4600-40F,TC3719420505,Internet2 Combined Rack [336586310],30,Juniper EX4600-40F
+smn-rtsw1.kans.net.internet2.edu,KANS,EX4600-40F,TC3719420501,Internet2 Packet Rack [BBBL01088],22,Juniper EX4600-40F
+smn-rtsw1.lasv.net.internet2.edu,LASV,EX4600-40F,TC3719510093,Internet2 Combined Rack [336130858],30,Juniper EX4600-40F
+smn-rtsw1.losa.net.internet2.edu,LOSA,EX4600-40F,TC3719510048,Internet2 Packet / TSG Rack [338555815],33,Juniper EX4600-40F
+smn-rtsw1.losa2.net.internet2.edu,LOSA2,EX4600-40F,TC3719510050,Internet2 NGI Combined Optical / Packet,31,Juniper EX4600-40F
+smn-rtsw1.loui.net.internet2.edu,LOUI,EX4600-40F,TC3719510002,Internet Combined Rack [336583396],30,Juniper EX4600-40F
+smn-rtsw1.minn.net.internet2.edu,MINN,EX4600-40F,TC3719510027,Internet2 Combined Rack,13,Juniper EX4600-40F
+smn-rtsw1.miss.net.internet2.edu,MISS,EX4600-40F,TC3719510025,Internet2 NGI Packet Rack,28,Juniper EX4600-40F
+smn-rtsw1.nash.net.internet2.edu,NASH,EX4600-40F,TC3719420561,Internet2 Packet Rack [338553090],31,Juniper EX4600-40F
+smn-rtsw1.newa.net.internet2.edu,NEWA,EX4600-40F,TC3719420541,Internet2 Combination Rack (Primary),29,Juniper EX4600-40F
+smn-rtsw1.newy32aoa.net.internet2.edu,NEWY32AOA,EX4600-40F,TC3719340223,Internet2 NGI Packet / MAN LAN,31,Juniper EX4600-40F
+smn-rtsw1.pens.net.internet2.edu,PENS,EX4600-40F,TC3719420495,Internet2 Combined Rack [337170542],30,Juniper EX4600-40F
+smn-rtsw1.phil.net.internet2.edu,PHIL,EX4600-40F,TC3719420497,Internet2 Combined Rack [336087578],29,Juniper EX4600-40F
+smn-rtsw1.phoe.net.internet2.edu,PHOE,EX4600-40F,TC3719420539,Internet2 Combined Rack | 336408118,30,Juniper EX4600-40F
+smn-rtsw1.pitt.net.internet2.edu,PITT,EX4600-40F,TC3719510031,Internet2 Combined Rack [345031055],30,Juniper EX4600-40F
+smn-rtsw1.port.net.internet2.edu,PORT,EX4600-40F,TC3719340229,Internet2 Combined 4 Post Rack [337939576],30,Juniper EX4600-40F
+smn-rtsw1.rale.net.internet2.edu,RALE,EX4600-40F,TC3719510028,Internet2 Combined HD Cabinet,30,Juniper EX4600-40F
+smn-rtsw1.reno.net.internet2.edu,RENO,EX4600-40F,TC3719510072,Internet2 Combined 4 Post Rack [338007980],30,Juniper EX4600-40F
+smn-rtsw1.sacr.net.internet2.edu,SACR,EX4600-40F,TC3719420537,Internet2 Packet Rack | 338151968,31,Juniper EX4600-40F
+smn-rtsw1.salt.net.internet2.edu,SALT,EX4600-40F,TC3719510033,Internet2 Packet 4 post Rack [338268901],31,Juniper EX4600-40F
+smn-rtsw1.sanj.net.internet2.edu,SANJ,EX4600-40F,TC3719420502,Internet2 NGI Combined Optical / Packet Cabinet,33,Juniper EX4600-40F
+smn-rtsw1.seat.net.internet2.edu,SEAT,EX4600-40F,TC3719510006,Internet2 Optical Rack 4post,36,Juniper EX4600-40F
+smn-rtsw1.star.net.internet2.edu,STAR,EX4600-40F,TC3719510024,Internet2 Combined Rack,30,Juniper EX4600-40F
+smn-rtsw1.sunn.net.internet2.edu,SUNN,EX4600-40F,TC3719420480,Internet2 Packet Rack [336784820],31,Juniper EX4600-40F
+smn-rtsw1.tole2.net.internet2.edu,TOLE2,EX4600-40F,TC3719420298,Internet2 Combined Rack [BBPC1224],30,Juniper EX4600-40F
+smn-rtsw1.tucs.net.internet2.edu,TUCS,EX4600-40F,TC3719340232,Internet2 Combined HD Rack [336408315],30,Juniper EX4600-40F
+smn-rtsw1.tuls.net.internet2.edu,TULS,EX4600-40F,TC3719510062,Internet2 Combined Rack [338084659],29,Juniper EX4600-40F
+smn-rtsw1.wash.net.internet2.edu,WASH,EX4600-40F,TC3719510034,Internet2 Packet/WIX Rack [344224120],33,Juniper EX4600-40F
+smn-rtsw2.chic.net.internet2.edu,CHIC,EX4600-40F,TC3122270790,Internet2 Monsoon ISS Rack [BBBL03592],36,Juniper EX4600-40F
+smn-rtsw2.salt.net.internet2.edu,SALT,EX4600-40F,TC3121460091,Internet2 ISS Rack 003.003,36,Juniper EX4600-40F
+smn-term1.alba.net.internet2.edu,ALBA,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [335802275],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.albu.net.internet2.edu,ALBU,IM7232-2-DDC,7.21619E+13,Internet2 Optical Rack [338529712],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.ashb.net.internet2.edu,ASHB,IM7232-2-DDC,7.23219E+13,Internet2 Optical Rack [0101-21506669],38,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.atla.net.internet2.edu,ATLA,IM7232-2-DDC,7.23219E+13,Packet Rack [BBBL17833],26,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.atlm.net.internet2.edu,ATLM,IM7232-2-DDC,7.23219E+13,Internet2 Optical Rack,34,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.bato.net.internet2.edu,BATO,OM2232-DDC,2.23223E+13,Internet2 Packet Rack [BBLQ26391],37,OpenGear OM2232-DDC
+smn-term1.bois.net.internet2.edu,BOIS,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [336482838],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.bost.net.internet2.edu,BOST,OM2232-DDC,2.23223E+13,Internet2 HD Optical Rack [4419042098],24,OpenGear OM2232-DDC
+smn-term1.bost2.net.internet2.edu,BOST2,OM2232-DDC,2.23225E+13,Internet2 Combined Rack,30,OpenGear OM2232-DDC
+smn-term1.char.net.internet2.edu,CHAR,IM7232-2-DDC,7.23219E+13,Internet2 Combined HD Cabinet [441904296],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.chic.net.internet2.edu,CHIC,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [BBDN24324],27,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.cinc.net.internet2.edu,CINC,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [338151658],30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.clev.net.internet2.edu,CLEV,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [BBHL46914],30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.dall.net.internet2.edu,DALL,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [BBMJ89508],28,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.dall3.net.internet2.edu,DALL3,IM7232-2-DDC,7.23219E+13,NGI Combined Optical / Packet Cabinet,34,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.denv.net.internet2.edu,DENV,IM7232-2-DDC,7.23219E+13,Internet2 Optical Rack [335494621],35,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.elpa.net.internet2.edu,ELPA,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [344159569],36,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.eqch.net.internet2.edu,EQCH,IM7232-2-DDC,7.23219E+13,Internet2 NGI Packet Rack,28,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.euge.net.internet2.edu,EUGE,IM7232-2-DDC,7.23219E+13,Internet2 NGI optical Rack,37,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.hart2.net.internet2.edu,HART2,IM7232-2-DDC,7.23219E+13,Combined HD Cabinet [441916754],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.holy-backup,HOLY,OM2216-L,smn-term1.holy-backup-chassis,(NEREN Owned) Packet Rack,0,Opengear OM2216-L
+smn-term1.holy.net.internet2.edu,HOLY,OM2216-L,2.21624E+13,(NEREN Owned) Packet Rack,26,Opengear OM2216-L
+smn-term1.houh.net.internet2.edu,HOUH,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [336919546],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.hous.net.internet2.edu,HOUS,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [BBGD20172],30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.indi.net.internet2.edu,INDI,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack,15,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.jack.net.internet2.edu,JACK,IM7232-2-DDC,7.23219E+13,Internet2 HD Combined Rack [337031122],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.jcsn.net.internet2.edu,JCSN,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [336586310],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.kans.net.internet2.edu,KANS,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [BBBL01088],21,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.lasv.net.internet2.edu,LASV,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [336130858],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.losa.net.internet2.edu,LOSA,IM7232-2-DDC,7.23219E+13,Internet2 Packet / TSG Rack [338555815],32,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.losa2.net.internet2.edu,LOSA2,IM7232-2-DDC,7.23219E+13,Internet2 NGI Combined Optical / Packet,30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.loui.net.internet2.edu,LOUI,IM7232-2-DDC,7.23219E+13,Internet Combined Rack [336583396],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.minn.net.internet2.edu,MINN,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack,14,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.miss.net.internet2.edu,MISS,IM7232-2-DDC,7.23219E+13,Internet2 NGI Packet Rack,27,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.nash.net.internet2.edu,NASH,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [338553090],30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.newa.net.internet2.edu,NEWA,OM2232-DDC,2.23224E+13,Internet2 Combination Rack (Primary),26,OpenGear OM2232-DDC
+smn-term1.newy32aoa.net.internet2.edu,NEWY32AOA,OM2232-DDC,2.23225E+13,Internet2 NGI Packet / MAN LAN,30,OpenGear OM2232-DDC
+smn-term1.pens.net.internet2.edu,PENS,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [337170542],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.phil.net.internet2.edu,PHIL,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [336087578],28,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.phoe.net.internet2.edu,PHOE,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack | 336408118,29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.phoe2.net.internet2.edu,PHOE2,OM2216-L,2.21623E+13,Internet2 PHOE2 WS5 Rack,1,Opengear OM2216-L
+smn-term1.pitt.net.internet2.edu,PITT,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [345031055],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.port.net.internet2.edu,PORT,IM7232-2-DDC,7.23219E+13,Internet2 Combined 4 Post Rack [337939576],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.rale.net.internet2.edu,RALE,IM7232-2-DDC,7.23219E+13,Internet2 Combined HD Cabinet,29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.reno.net.internet2.edu,RENO,IM7232-2-DDC,7.23219E+13,Internet2 Combined 4 Post Rack [338007980],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.sacr.net.internet2.edu,SACR,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack | 338151968,30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.salt.net.internet2.edu,SALT,IM7232-2-DDC,7.23219E+13,Internet2 Packet 4 post Rack [338268901],30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.sanj.net.internet2.edu,SANJ,IM7232-2-DDC,7.23219E+13,Internet2 NGI Combined Optical / Packet Cabinet,32,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.seat.net.internet2.edu,SEAT,OM2232-DDC,2.23224E+13,Internet2 Optical Rack 4post,35,OpenGear OM2232-DDC
+smn-term1.star.net.internet2.edu,STAR,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack,29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.sunn.net.internet2.edu,SUNN,IM7232-2-DDC,7.23219E+13,Internet2 Packet Rack [336784820],30,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.tole2.net.internet2.edu,TOLE2,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [BBPC1224],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.tucs.net.internet2.edu,TUCS,IM7232-2-DDC,7.23219E+13,Internet2 Combined HD Rack [336408315],29,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.tuls.net.internet2.edu,TULS,IM7232-2-DDC,7.23219E+13,Internet2 Combined Rack [338084659],28,Opengear IM7232-2-DDC IM7232-2-DDC
+smn-term1.wash.net.internet2.edu,WASH,IM7232-2-DDC,7.23219E+13,Internet2 Packet/WIX Rack [344224120],32,Opengear IM7232-2-DDC IM7232-2-DDC
+spare.ctc.net.internet2.edu,CTC,PowerEdge R430,65PV082,GRNOC Rack P-13,6,Dell PowerEdge R430
+spare2.bldc.net.internet2.edu,BLDC,PowerEdge R630,7256C42,AK-23,34,Dell PowerEdge R630
+spare3.bldc.net.internet2.edu,BLDC,PowerEdge R430,65PT082,BB-10,30,Dell PowerEdge R430
+sw-soe2.singaren.net.sg,SING3,MLXe 16-slot,DUMMY-1648830154-2302,SOE SG3 Rack,1,Brocade MLXe 16-slot
+sw1.chic.net.internet2.edu,CHIC,EX4600-40F,TC3719510026,Internet2 Packet Rack [BBDN24324],21,Juniper EX4600-40F
+sw1.lasv.net.internet2.edu,LASV,EX4600-40F,TC3719510019,Internet2 Combined Rack [336130858],28,Juniper EX4600-40F
+sw1.net.bost2.net.internet2.edu,BOST2,DCS-7280DR3K-24-F,JPA2422P345,Internet2 Combined Rack,28,Arista Networks DCS-7280DR3K-24-F
+sw2.net.wix.internet2.edu,WASH,DCS-7280DR3K-24-F,JPA2422P34M,Internet2 Packet/WIX Rack [344224120],18,Arista Networks DCS-7280DR3K-24-F
+sw4.net.manlan.internet2.edu,NEWY32AOA,DCS-7280DR3K-24-F,JPA2422P33R,Internet2 NGI Packet / MAN LAN,16,Arista Networks DCS-7280DR3K-24-F
+sw5.ashb.net.internet2.edu,ASHB,EX4600-40F,TC3719510018,Internet2 Optical Rack [0101-21506669],35,Juniper EX4600-40F
+tray.atla.net.internet2.edu,ATLA,,,Packet Rack [BBBL17833],23,Multifunction Fiber Panel
+tray.bato.net.internet2.edu,BATO,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray.bato.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL18798],1,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.detr.net.internet2.edu,DETR,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray.detr.net.internet2.edu-chassis,Optical ICC,6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.euge.net.internet2.edu,EUGE,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray.euge.net.internet2.edu-chassis,Internet2 NGI optical Rack,1,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.lacy.net.internet2.edu,LACY,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1393616118-8867,Internet2 NGI Optical Rack,1,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.losa2.net.internet2.edu,LOSA2,2RU Storage Tray,DUMMY-1617135548-110,Internet2 NGI Combined Optical / Packet,32,Generic 2RU Storage Tray
+tray.loui.net.internet2.edu,LOUI,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray.loui.net.internet2.edu-chassis,Available [BBBL16909],2,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.memp.net.internet2.edu,MEMP,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray.memp.net.internet2.edu-chassis,Internet2 Optical Rack [BBXP0888],1,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.pueb.net.internet2.edu,PUEB,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1394036208-7603,Internet2 Optical Rack [BBWL8530],1,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.sand.net.internet2.edu,SAND,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1394038764-6225,Ciena optical,1,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray.sanj.net.internet2.edu,SANJ,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622742106-2711,Internet2 NGI Combined Optical / Packet Cabinet,14,Ciena Fiber Interconnect Module (FIM) Type 1
+tray.sunn.net.internet2.edu,SUNN,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1394039775-5062,Internet2 Observatory Rack/Ciena optical #1,6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray10.ashb.net.internet2.edu,ASHB,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622734626-7452,Internet2 Optical Rack [0101-21506669],24,Ciena Fiber Interconnect Module (FIM) Type 1
+tray10.dall.net.internet2.edu,DALL,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622742631-7684,Internet2 Optical Rack [337304945],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray10.losa.net.internet2.edu,LOSA,1RU Storage Tray,DUMMY-1617130811-4824,Internet2 Packet / TSG Rack [338555815],39,Generic 1RU Storage Tray
+tray10.nash.net.internet2.edu,NASH,1RU Storage Tray,DUMMY-1617127923-7865,Internet2 Packet Rack [338553090],37,Generic 1RU Storage Tray
+tray11.clev.net.internet2.edu,CLEV,1RU,DUMMY-1622144185-3098,Internet2 Packet Rack [BBHL46914],38,Generic 1RU
+tray11.denv.net.internet2.edu,DENV,2RU Storage Tray,DUMMY-1617132761-2224,Internet2 Packet Rack [BBHL47067],29,Generic 2RU Storage Tray
+tray11.losa.net.internet2.edu,LOSA,2RU Storage Tray,DUMMY-1617131311-9244,Internet2 Packet / TSG Rack [338555815],34,Generic 2RU Storage Tray
+tray11.nash.net.internet2.edu,NASH,2RU Storage Tray,DUMMY-1617128066-4618,Internet2 Packet Rack [338553090],32,Generic 2RU Storage Tray
+tray12.clev.net.internet2.edu,CLEV,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622734157-4050,Internet2 Optical Rack [336030196],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray12.denv.net.internet2.edu,DENV,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622736813-2251,Internet2 Optical Rack [335494621],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray12.kans.net.internet2.edu,KANS,Fiber Interconnect Module (FIM) Type 1,DUMMY-1611324160-7360,Internet2 Optical Rack [335306828],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray12.losa.net.internet2.edu,LOSA,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622741293-7461,Internet2 NGI Optical [336292980],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray12.nash.net.internet2.edu,NASH,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622737598-9687,Internet2 Optical Rack [336584329],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray13.atla.net.internet2.edu,ATLA,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622737860-9244,Internet2 Optical Rack [336409418],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray13.salt.net.internet2.edu,SALT,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622741743-7621,Internet2 Optical Rack | 336911578,23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray13.wash.net.internet2.edu,WASH,fmgmt,tray13.wash.net.internet2.edu-chassis,Internet2 Optical Rack [344224121]],24,Ciena fmgmt
+tray16.wash.net.internet2.edu,WASH,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622731088-8030,Internet2 Optical Rack [344224121]],25,Ciena Fiber Interconnect Module (FIM) Type 1
+tray17.wash.net.internet2.edu,WASH,MFP 1RU,DUMMY-1687284437-3295,Internet2 Optical Rack [344224121]],38,ADC MFP 1RU
+tray2.bato.net.internet2.edu,BATO,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray2.bato.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL18798],3,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.detr.net.internet2.edu,DETR,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray2.detr.net.internet2.edu-chassis,Optical ICC,8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray2.euge.net.internet2.edu,EUGE,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray2.euge.net.internet2.edu-chassis,Internet2 NGI optical Rack,3,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.lacy.net.internet2.edu,LACY,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1393616141-6602,Internet2 NGI Optical Rack,3,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.loui.net.internet2.edu,LOUI,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray2.loui.net.internet2.edu-chassis,Available [BBBL16909],4,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.memp.net.internet2.edu,MEMP,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray2.memp.net.internet2.edu-chassis,Internet2 Optical Rack [BBXP0888],3,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.pueb.net.internet2.edu,PUEB,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1394036741-1815,Internet2 Optical Rack [BBWL8530],3,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.sand.net.internet2.edu,SAND,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1394038783-304,Ciena optical,3,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray2.sunn.net.internet2.edu,SUNN,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1394039792-5155,Internet2 Observatory Rack/Ciena optical #1,8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray3.bato.net.internet2.edu,BATO,NTT862DA,tray3.bato.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL18798],5,Ciena NTT862DA NTT862DA
+tray3.detr.net.internet2.edu,DETR,NTT862DA,tray3.detr.net.internet2.edu-chassis,Optical ICC,10,Ciena NTT862DA NTT862DA
+tray3.euge.net.internet2.edu,EUGE,NTT862DA,tray3.euge.net.internet2.edu-chassis,Internet2 NGI optical Rack,5,Ciena NTT862DA NTT862DA
+tray3.lacy.net.internet2.edu,LACY,NTT862DA,DUMMY-1393616169-7556,Internet2 NGI Optical Rack,5,Ciena NTT862DA NTT862DA
+tray3.loui.net.internet2.edu,LOUI,NTT862DA,tray3.loui.net.internet2.edu-chassis,Available [BBBL16909],6,Ciena NTT862DA NTT862DA
+tray3.memp.net.internet2.edu,MEMP,NTT862DA,tray3.memp.net.internet2.edu-chassis,Internet2 Optical Rack [BBXP0888],5,Ciena NTT862DA NTT862DA
+tray3.pueb.net.internet2.edu,PUEB,NTT862DA,DUMMY-1394036785-368,Internet2 Optical Rack [BBWL8530],5,Ciena NTT862DA NTT862DA
+tray3.sand.net.internet2.edu,SAND,NTT862DA,DUMMY-1394038809-9502,Ciena optical,5,Ciena NTT862DA NTT862DA
+tray3.sunn.net.internet2.edu,SUNN,NTT862DA,DUMMY-1394039815-6820,Internet2 Observatory Rack/Ciena optical #1,10,Ciena NTT862DA NTT862DA
+tray3.tole2.net.internet2.edu,TOLE2,SO-OWDM-MUX-8CH+MON,tray3.tole2.net.internet2.edu-chassis,Internet2 Combined Rack [BBPC1224],26,Solid Optics SO-OWDM-MUX-8CH+MON
+tray4.bato.net.internet2.edu,BATO,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray4.bato.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL18798],35,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.chic.net.internet2.edu,CHIC,1RU,DUMMY-1613498776-1351,Internet2 Packet Rack [BBDN24324],33,Generic 1RU
+tray4.detr.net.internet2.edu,DETR,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray4.detr.net.internet2.edu-chassis,Optical ICC,11,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.euge.net.internet2.edu,EUGE,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray4.euge.net.internet2.edu-chassis,Internet2 NGI optical Rack,6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.lacy.net.internet2.edu,LACY,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1393616207-5281,Internet2 NGI Optical Rack,6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.loui.net.internet2.edu,LOUI,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray4.loui.net.internet2.edu-chassis,Available [BBBL16909],7,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.memp.net.internet2.edu,MEMP,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),tray4.memp.net.internet2.edu-chassis,Internet2 Optical Rack [BBXP0888],6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.newy1118th.net.internet2.edu,NEWY1118TH,fmgmt,DUMMY-1622732736-2462,Internet2 Optical Rack [335830542],23,Ciena fmgmt
+tray4.pueb.net.internet2.edu,PUEB,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1394036820-6943,Internet2 Optical Rack [BBWL8530],6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray4.sand.net.internet2.edu,SAND,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red),DUMMY-1394038839-1711,Ciena optical,6,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Red)
+tray5.chic.net.internet2.edu,CHIC,2RU Storage Tray,DUMMY-1613498946-834,Internet2 Packet Rack [BBDN24324],29,Generic 2RU Storage Tray
+tray5.denv.net.internet2.edu,DENV,1RU Storage Tray,DUMMY-1617132705-8374,Internet2 Packet Rack [BBHL47067],32,Generic 1RU Storage Tray
+tray5.detr.net.internet2.edu,DETR,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray5.detr.net.internet2.edu-chassis,Optical ICC,13,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray5.euge.net.internet2.edu,EUGE,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray5.euge.net.internet2.edu-chassis,Internet2 NGI optical Rack,8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray5.lacy.net.internet2.edu,LACY,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1393616351-2340,Internet2 NGI Optical Rack,8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray5.loui.net.internet2.edu,LOUI,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray5.loui.net.internet2.edu-chassis,Available [BBBL16909],9,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray5.memp.net.internet2.edu,MEMP,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray5.memp.net.internet2.edu-chassis,Internet2 Optical Rack [BBXP0888],8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray5.newy1118th.net.internet2.edu,NEWY1118TH,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622732761-4108,Internet2 Optical Rack [335830542],24,Ciena Fiber Interconnect Module (FIM) Type 1
+tray5.newy32aoa.net.internet2.edu,NEWY32AOA,Fiber Interconnect Module (FIM) Type 1,DUMMY-1611073341-981,Internet2 NGI Optical,24,Ciena Fiber Interconnect Module (FIM) Type 1
+tray5.pueb.net.internet2.edu,PUEB,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1394036836-2158,Internet2 Optical Rack [BBWL8530],8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray5.sand.net.internet2.edu,SAND,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),DUMMY-1394038859-4707,Ciena optical,8,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray6.bato.net.internet2.edu,BATO,44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue),tray6.bato.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL18798],37,Ciena 44 Ch Mux/Demux (CMD44) 50 GHz C-Band (Blue)
+tray6.chic.net.internet2.edu,CHIC,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622735865-4942,Internet2 Optical Rack [BBBL03590],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray6.detr.net.internet2.edu,DETR,NTT862DA,tray6.detr.net.internet2.edu-chassis,Optical ICC,15,Ciena NTT862DA NTT862DA
+tray6.eqch.net.internet2.edu,EQCH,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622735629-1156,Internet2 NGI Optical Rack,23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray6.euge.net.internet2.edu,EUGE,NTT862DA,tray6.euge.net.internet2.edu-chassis,Internet2 NGI optical Rack,10,Ciena NTT862DA NTT862DA
+tray6.hous.net.internet2.edu,HOUS,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622739907-2718,Internet2 Optical Rack [336784324],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray6.lacy.net.internet2.edu,LACY,NTT862DA,DUMMY-1393616401-3947,Internet2 NGI Optical Rack,10,Ciena NTT862DA NTT862DA
+tray6.loui.net.internet2.edu,LOUI,NTT862DA,tray6.loui.net.internet2.edu-chassis,Available [BBBL16909],11,Ciena NTT862DA NTT862DA
+tray6.memp.net.internet2.edu,MEMP,NTT862DA,tray6.memp.net.internet2.edu-chassis,Internet2 Optical Rack [BBXP0888],10,Ciena NTT862DA NTT862DA
+tray6.pueb.net.internet2.edu,PUEB,NTT862DA,DUMMY-1394036857-8538,Internet2 Optical Rack [BBWL8530],10,Ciena NTT862DA NTT862DA
+tray6.sacr.net.internet2.edu,SACR,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622741908-1655,Internet2 Optical Rack [442048518],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray6.sand.net.internet2.edu,SAND,NTT862DA,DUMMY-1394038881-7537,Ciena optical,10,Ciena NTT862DA NTT862DA
+tray6.sunn.net.internet2.edu,SUNN,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622741994-7950,Internet2 Optical Rack [338270522],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray7.bato.net.internet2.edu,BATO,NTT862DA,tray7.bato.net.internet2.edu-chassis,Internet2 Optical Rack [BBBL18798],39,Ciena NTT862DA NTT862DA
+tray7.bost.net.internet2.edu,BOST,fmgmt,DUMMY-1622733638-6729,Internet2 HD Optical Rack [4419042098],14,Ciena fmgmt
+tray7.char.net.internet2.edu,CHAR,2RU Storage Tray,DUMMY-1617129498-7359,Internet2 Combined HD Cabinet [441904296],31,Generic 2RU Storage Tray
+tray7.chic.net.internet2.edu,CHIC,2RU Storage Tray,DUMMY-1703007994-4704,Internet2 Monsoon ISS Rack [BBBL03592],27,Generic 2RU Storage Tray
+tray7.cinc.net.internet2.edu,CINC,2RU Storage Tray,DUMMY-1615253688-4209,Internet2 Packet Rack [338151658],32,Generic 2RU Storage Tray
+tray7.loui.net.internet2.edu,LOUI,1RU,DUMMY-1617212115-4405,Internet Combined Rack [336583396],34,Generic 1RU
+tray7.newy32aoa.net.internet2.edu,NEWY32AOA,fmgmt,DUMMY-1622733174-3202,Internet2 NGI Optical,23,Ciena fmgmt
+tray7.phil.net.internet2.edu,PHIL,Generic-2ru-device,DUMMY-1613489833-1008,Internet2 Combined Rack [336087578],30,Generic Generic-2ru-device
+tray7.rale.net.internet2.edu,RALE,1RU Storage Tray,DUMMY-1617213401-1957,Internet2 Combined HD Cabinet,34,Generic 1RU Storage Tray
+tray8.char.net.internet2.edu,CHAR,1RU,DUMMY-1617129536-4104,Internet2 Combined HD Cabinet [441904296],34,Generic 1RU
+tray8.cinc.net.internet2.edu,CINC,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622737140-7767,Internet2 Optical Rack [336588838],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray8.loui.net.internet2.edu,LOUI,2RU Storage Tray,DUMMY-1617212161-6921,Internet Combined Rack [336583396],31,Generic 2RU Storage Tray
+tray8.pitt.net.internet2.edu,PITT,fmgmt,DUMMY-1622734344-4047,Internet2 Combined Rack [345031055],14,Ciena fmgmt
+tray8.rale.net.internet2.edu,RALE,2RU Storage Tray,DUMMY-1617213433-3882,Internet2 Combined HD Cabinet,31,Generic 2RU Storage Tray
+tray9.ashb.net.internet2.edu,ASHB,fmgmt,DUMMY-1622734600-3943,Internet2 Optical Rack [0101-21506669],23,Ciena fmgmt
+tray9.char.net.internet2.edu,CHAR,fmgmt,DUMMY-1622738706-993,Internet2 Combined HD Cabinet [441904296],14,Ciena fmgmt
+tray9.elpa.net.internet2.edu,ELPA,Fiber Interconnect Module (FIM) Type 1,DUMMY-1622740239-7020,Internet2 Optical Rack [344159570],23,Ciena Fiber Interconnect Module (FIM) Type 1
+tray9.hart2.net.internet2.edu,HART2,fmgmt,DUMMY-1622733493-4528,Combined HD Cabinet [441916754],14,Ciena fmgmt
+tray9.phil.net.internet2.edu,PHIL,fmgmt,DUMMY-1622732252-5402,Internet2 Combined Rack [336087578],14,Ciena fmgmt
+ucs.mclean2.net.internet2.edu,MCLean2,C210,QCI1616A0A8,McLean2 Telepresence Rack,35,Cisco C210
+ucs2.mclean2.net.internet2.edu,MCLean2,C210,QCI1616A0H9,McLean2 Telepresence Rack,33,Cisco C210
+ucs3.mclean2.net.internet2.edu,MCLean2,C210,QCI1615A7RX,McLean2 Telepresence Rack,31,Cisco C210
+vcs.mclean2.net.internet2.edu,MCLean2,VCS-e, 52A11181,McLean2 Telepresence Rack,20,Tandberg VCS-e
+vcs2.mclean2.net.internet2.edu,MCLean2,VCS-e,04D10150 -- support uses UCS s/n,McLean2 Telepresence Rack,0,Tandberg VCS-e
+vcs3.mclean2.net.internet2.edu,MCLean2,VCS-e, 03D4D80E -- support uses UCS s/n,McLean2 Telepresence Rack,0,Tandberg VCS-e
+vcs4.mclean2.net.internet2.edu,MCLean2,VCS-e, 52A13239 ,McLean2 Telepresence Rack,0,Tandberg VCS-e
+vcs5.mclean2.net.internet2.edu,MCLean2,VCS-e,  0FE2196B,McLean2 Telepresence Rack,0,Tandberg VCS-e
+vcs6.mclean2.net.internet2.edu,MCLean2,VCS-e,013FA4E2,McLean2 Telepresence Rack,0,Tandberg VCS-e
+video-sw.denv.net.internet2.edu,DENV,5160,M7441315,Internet2 Packet Rack [BBHL47067],21,Ciena 5160
+video-sw.euge.net.internet2.edu,EUGE,5160,M7351831,Internet2 NGI optical Rack,40,Ciena 5160
+video-sw.losa.net.internet2.edu,LOSA,5160,M7351935,Internet2 Packet / TSG Rack [338555815],31,Ciena 5160
+video-sw.phoe.net.internet2.edu,PHOE,5160,M7351856,Internet2 Combined Rack | 336408118,28,Ciena 5160
+video-sw.seat.net.internet2.edu,SEAT,5160,M7351860,Internet2 Optical Rack 4post,31,Ciena 5160
+video-sw.sunn.net.internet2.edu,SUNN,8700,M8579610,Internet2 Optical Rack [338270522],31,Ciena 8700
+video-sw.tucs.net.internet2.edu,TUCS,5160,M7441313,Internet2 Combined HD Rack [336408315],28,Ciena 5160
+video-sw3.salt.net.internet2.edu,SALT,5160,M7351845,Internet2 Packet 4 post Rack [338268901],29,Ciena 5160
+vprd1.chic.net.internet2.edu,CHIC,ADS-R108-SAE232D-A,DUMMY-1703008085-3281,Internet2 Monsoon ISS Rack [BBBL03592],24,Applied Data Systems ADS-R108-SAE232D-A ADS-R108-SAE232D-A
+vprd1.salt.ns.internet2.edu,SALT,1RU,DUMMY-1674848664-143,Internet2 ISS Rack 003.003,26,Generic 1RU
+vprd2.chic.net.internet2.edu,CHIC,ADS-R108-SAE232D-A,DUMMY-1703008215-3054,Internet2 Monsoon ISS Rack [BBBL03592],23,Applied Data Systems ADS-R108-SAE232D-A ADS-R108-SAE232D-A
+vprd2.salt.ns.internet2.edu,SALT,1RU,DUMMY-1674848689-9722,Internet2 ISS Rack 003.003,25,Generic 1RU
+vprd3.chic.net.internet2.edu,CHIC,ADS-R108-SAE232D-A,DUMMY-1703008240-8266,Internet2 Monsoon ISS Rack [BBBL03592],22,Applied Data Systems ADS-R108-SAE232D-A ADS-R108-SAE232D-A
+vprd3.salt.ns.internet2.edu,SALT,1RU,DUMMY-1674848698-2487,Internet2 ISS Rack 003.003,24,Generic 1RU
+vprd4.chic.net.internet2.edu,CHIC,ADS-R108-SAE232D-A,DUMMY-1703008262-8587,Internet2 Monsoon ISS Rack [BBBL03592],21,Applied Data Systems ADS-R108-SAE232D-A ADS-R108-SAE232D-A
+vprd4.salt.ns.internet2.edu,SALT,1RU,DUMMY-1674848705-3886,Internet2 ISS Rack 003.003,23,Generic 1RU
+vprd5.chic.net.internet2.edu,CHIC,ADS-R108-SAE232D-A,DUMMY-1703008284-7943,Internet2 Monsoon ISS Rack [BBBL03592],20,Applied Data Systems ADS-R108-SAE232D-A ADS-R108-SAE232D-A
+vprd5.salt.ns.internet2.edu,SALT,1RU,DUMMY-1674848715-9669,Internet2 ISS Rack 003.003,22,Generic 1RU
+wave-sw1.alba.net.internet2.edu,ALBA,Waveserver 5,M9730DBA,Internet2 Combined Rack [335802275],16,Ciena Waveserver 5
+wave-sw1.ashb.net.internet2.edu,ASHB,Waveserver 5,M970AB0E,Internet2 Optical Rack [0101-21506669],29,Ciena Waveserver 5
+wave-sw1.atla.net.internet2.edu,ATLA,Waveserver 5,M9730DE8,Packet Rack [BBBL17833],8,Ciena Waveserver 5
+wave-sw1.atlm.net.internet2.edu,ATLM,Waveserver 5,M96FC18D,Internet2 Optical Rack,17,Ciena Waveserver 5
+wave-sw1.bois.net.internet2.edu,BOIS,Waveserver 5,M96FC179,Internet2 Combined Rack [336482838],16,Ciena Waveserver 5
+wave-sw1.cenic.albu.net.internet2.edu,ALBU,Waveserver 5,M9896046,UNM/CENIC Rack,25,Ciena Waveserver 5
+wave-sw1.cenic.denv.net.internet2.edu,DENV,Waveserver 5,M983ABC6,CENIC/PNWGP (via FRGP),24,Ciena Waveserver 5
+wave-sw1.cenic.elpa.net.internet2.edu,ELPA,Waveserver 5,M9896056,CENIC Rack,25,Ciena Waveserver 5
+wave-sw1.cenic.port.net.internet2.edu,PORT,Waveserver 5,M9740031,UW/CENIC optical rack,22,Ciena Waveserver 5
+wave-sw1.cenic.seat.net.internet2.edu,SEAT,Waveserver 5,M973FEC4,UW/CENIC optical rack,26,Ciena Waveserver 5
+wave-sw1.cenic.star.net.internet2.edu,STAR,Waveserver 5,M98A45B2,PNWGP/CENIC rack,24,Ciena Waveserver 5
+wave-sw1.cenic.sunn.net.internet2.edu,SUNN,Waveserver 5,M985AE13,CENIC optical rack,14,Ciena Waveserver 5
+wave-sw1.char.net.internet2.edu,CHAR,Waveserver 5,M975B824,Internet2 Combined HD Cabinet [441904296],16,Ciena Waveserver 5
+wave-sw1.chic.net.internet2.edu,CHIC,Waveserver 5,M9715600,Internet2 Packet Rack [BBDN24324],23,Ciena Waveserver 5
+wave-sw1.cinc.net.internet2.edu,CINC,Waveserver 5,M97155E5,Internet2 Optical Rack [336588838],26,Ciena Waveserver 5
+wave-sw1.clev.net.internet2.edu,CLEV,Waveserver 5,M97155ED,Internet2 Packet Rack [BBHL46914],28,Ciena Waveserver 5
+wave-sw1.colu6.net.internet2.edu,COLU6,Waveserver 5,M9816AEB,Management Gear / Misc / Available,12,Ciena Waveserver 5
+wave-sw1.denv.net.internet2.edu,DENV,Waveserver 5,M975B83C,Internet2 Optical Rack [335494621],26,Ciena Waveserver 5
+wave-sw1.elpa.net.internet2.edu,ELPA,Waveserver 5,M97155DB,Internet2 Optical Rack [344159570],26,Ciena Waveserver 5
+wave-sw1.eqch.net.internet2.edu,EQCH,Waveserver 5,M970AB55,Internet2 NGI Optical Rack,27,Ciena Waveserver 5
+wave-sw1.hart2.net.internet2.edu,HART2,Waveserver 5,M97155F6,Combined HD Cabinet [441916754],16,Ciena Waveserver 5
+wave-sw1.houh.net.internet2.edu,HOUH,Waveserver 5,M970AB51,Internet2 Combined Rack [336919546],16,Ciena Waveserver 5
+wave-sw1.hous.net.internet2.edu,HOUS,Waveserver 5,M96FC190,Internet2 Packet Rack [BBGD20172],26,Ciena Waveserver 5
+wave-sw1.indi.net.internet2.edu,INDI,Waveserver 5,M97155EF,Internet2 Combined Rack,23,Ciena Waveserver 5
+wave-sw1.jack.net.internet2.edu,JACK,Waveserver 5,M970AAF2,Internet2 HD Combined Rack [337031122],16,Ciena Waveserver 5
+wave-sw1.jcsn.net.internet2.edu,JCSN,Waveserver 5,M97155D3,Internet2 Combined Rack [336586310],16,Ciena Waveserver 5
+wave-sw1.kans.net.internet2.edu,KANS,Waveserver 5,M97155F1,Internet2 Optical Rack [335306828],26,Ciena Waveserver 5
+wave-sw1.lasv.net.internet2.edu,LASV,Waveserver 5,M96FC174,Internet2 Combined Rack [336130858],16,Ciena Waveserver 5
+wave-sw1.loui.net.internet2.edu,LOUI,Waveserver 5,M970AB5A,Internet Combined Rack [336583396],16,Ciena Waveserver 5
+wave-sw1.nash.net.internet2.edu,NASH,Waveserver 5,M975B828,Internet2 Optical Rack [336584329],26,Ciena Waveserver 5
+wave-sw1.newy32aoa.net.internet2.edu,NEWY32AOA,Waveserver 5,M97155DC,Internet2 NGI Optical,29,Ciena Waveserver 5
+wave-sw1.pens.net.internet2.edu,PENS,Waveserver 5,M97155F0,Internet2 Combined Rack [337170542],16,Ciena Waveserver 5
+wave-sw1.phil.net.internet2.edu,PHIL,Waveserver 5,M97155E8,Internet2 Combined Rack [336087578],16,Ciena Waveserver 5
+wave-sw1.phoe.net.internet2.edu,PHOE,Waveserver 5,M97155D6,Internet2 Combined Rack | 336408118,14,Ciena Waveserver 5
+wave-sw1.phoe2.net.internet2.edu,PHOE2,Waveserver 5,M9809995,Internet2 PHOE2 WS5 Rack,10,Ciena Waveserver 5
+wave-sw1.pitt.net.internet2.edu,PITT,Waveserver 5,M970AB17,Internet2 Combined Rack [345031055],16,Ciena Waveserver 5
+wave-sw1.port.net.internet2.edu,PORT,Waveserver 5,M97155E7,Internet2 Combined 4 Post Rack [337939576],16,Ciena Waveserver 5
+wave-sw1.rale.net.internet2.edu,RALE,Waveserver 5,M97155D9,Internet2 Combined HD Cabinet,16,Ciena Waveserver 5
+wave-sw1.reno.net.internet2.edu,RENO,Waveserver 5,M970AB45,Internet2 Combined 4 Post Rack [338007980],15,Ciena Waveserver 5
+wave-sw1.sacr.net.internet2.edu,SACR,Waveserver 5,M970AB53,Internet2 Optical Rack [442048518],26,Ciena Waveserver 5
+wave-sw1.salt.net.internet2.edu,SALT,Waveserver 5,M9730DD8,Internet2 Optical Rack | 336911578,26,Ciena Waveserver 5
+wave-sw1.seat.net.internet2.edu,SEAT,Waveserver 5,M96FC18F,Internet2 Optical Rack 4post,29,Ciena Waveserver 5
+wave-sw1.star.net.internet2.edu,STAR,Waveserver 5,M97155D5,Internet2 Combined Rack,16,Ciena Waveserver 5
+wave-sw1.tole2.net.internet2.edu,TOLE2,Waveserver 5,M97155EA,Internet2 Combined Rack [BBPC1224],16,Ciena Waveserver 5
+wave-sw1.tucs.net.internet2.edu,TUCS,Waveserver 5,M97155EB,Internet2 Combined HD Rack [336408315],18,Ciena Waveserver 5
+wave-sw1.tuls.net.internet2.edu,TULS,Waveserver 5,M97155D8,Internet2 Combined Rack [338084659],17,Ciena Waveserver 5
+wave-sw1.wash.net.internet2.edu,WASH,Waveserver 5,M9809A49,Internet2 Optical Rack [344224121]],28,Ciena Waveserver 5
+wave-sw2.ashb.net.internet2.edu,ASHB,Waveserver 5,M970AB0F,Internet2 Optical Rack [0101-21506669],27,Ciena Waveserver 5
+wave-sw2.atla.net.internet2.edu,ATLA,Waveserver 5,M97C8E22,Internet2 Optical Rack [336409418],26,Ciena Waveserver 5
+wave-sw2.chic.net.internet2.edu,CHIC,Waveserver 5,M97C8E26,Internet2 Optical Rack [BBBL03590],30,Ciena Waveserver 5
+wave-sw2.clev.net.internet2.edu,CLEV,Waveserver 5,M9730DE6,Available [BBKM14482],27,Ciena Waveserver 5
+wave-sw2.dall.net.internet2.edu,DALL,Waveserver 5,M9730DD7,Internet2 Optical Rack [337304945],27,Ciena Waveserver 5
+wave-sw2.dall3.net.internet2.edu,DALL3,Waveserver 5,M9730DD5,NGI Combined Optical / Packet Cabinet,14,Ciena Waveserver 5
+wave-sw2.denv.net.internet2.edu,DENV,Waveserver 5,M97C8E2C,Internet2 Optical Rack [335494621],28,Ciena Waveserver 5
+wave-sw2.elpa.net.internet2.edu,ELPA,Waveserver 5,M980999A,Internet2 Optical Rack [344159570],28,Ciena Waveserver 5
+wave-sw2.losa.net.internet2.edu,LOSA,Waveserver 5,M975B800,Internet2 NGI Optical [336292980],26,Ciena Waveserver 5
+wave-sw2.sanj.net.internet2.edu,SANJ,Waveserver 5,M970AB0D,Internet2 NGI Combined Optical / Packet Cabinet,25,Ciena Waveserver 5
+wave-sw2.sunn.net.internet2.edu,SUNN,Waveserver 5,M97155DD,Internet2 Optical Rack [338270522],26,Ciena Waveserver 5
+wave-sw3.losa.net.internet2.edu,LOSA,Waveserver 5,M975B827,Internet2 NGI Optical [336292980],28,Ciena Waveserver 5

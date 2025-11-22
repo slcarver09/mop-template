@@ -1,0 +1,183 @@
+// components/MopTemplateForm/MopForm.jsx
+import React from 'react';
+import EquipmentFields from './EquipmentFields';
+import AdditionalEquipmentList from './AdditionalEquipmentList';
+
+export default function MopForm({ 
+  form, 
+  onChange, 
+  popCodes, 
+  filteredNodeNames,
+  onPopChange,
+  onDeviceNameChange
+}) {
+  const handleChange = (e) => {
+    onChange({ ...form, [e.target.name]: e.target.value });
+  };
+
+  return (
+    <form className="mop-card">
+      <h1 className="mop-title">Method of Procedure (MOP)</h1>
+      
+      {/* Site Address Section */}
+      <section>
+        <h2 className="mop-section-title">Site Address</h2>
+        <input
+          name="pop"
+          value={form.pop}
+          onChange={onPopChange}
+          placeholder="POP"
+          className="modern-input"
+          list="pop-codes-list"
+        />
+        <datalist id="pop-codes-list">
+          {popCodes.map(code => <option key={code} value={code} />)}
+        </datalist>
+        <input 
+          name="street" 
+          value={form.street} 
+          onChange={handleChange} 
+          placeholder="Street Address" 
+          className="modern-input" 
+        />
+        <input 
+          name="cityStateZip" 
+          value={form.cityStateZip} 
+          onChange={handleChange} 
+          placeholder="City, State, Zip Code" 
+          className="modern-input" 
+        />
+      </section>
+      
+      {/* Equipment Location Section */}
+      <section>
+        <h2 className="mop-section-title">Internet2 Equipment Location</h2>
+        <EquipmentFields
+          equipment={form}
+          onChange={(updated) => onChange({ ...form, ...updated })}
+          showDeviceNameList={true}
+          filteredNodeNames={filteredNodeNames}
+          onDeviceNameChange={onDeviceNameChange}
+        />
+        
+        <AdditionalEquipmentList
+          additionalEquipment={form.additionalEquipment}
+          onUpdate={(updated) => onChange({ ...form, additionalEquipment: updated })}
+          maxItems={4}
+        />
+      </section>
+      
+      {/* Date & Time Section */}
+      <section>
+        <h2 className="mop-section-title">
+          Date & Time{' '}
+          <span style={{ fontWeight: 400, color: '#6b7280', fontSize: '0.98em' }}>
+            (Facility Local Time)
+          </span>
+        </h2>
+        <div style={{ display: 'flex', gap: '1rem' }}>
+          <input
+            type="date"
+            name="date"
+            value={form.date}
+            onChange={handleChange}
+            className="modern-input"
+            style={{ marginBottom: 0, width: '100%' }}
+            disabled={form.emergencyWork}
+          />
+          <div style={{ display: 'flex', gap: '0.5em', width: '100%' }}>
+            <select
+              name="hour"
+              value={form.hour || ''}
+              onChange={(e) => onChange({ ...form, hour: e.target.value })}
+              className="modern-input"
+              style={{ width: '100%' }}
+              disabled={form.emergencyWork}
+            >
+              <option value="">Hour</option>
+              {[...Array(24).keys()].map(h => (
+                <option key={h} value={String(h).padStart(2, '0')}>
+                  {String(h).padStart(2, '0')}
+                </option>
+              ))}
+            </select>
+            <select
+              name="minute"
+              value={form.minute || ''}
+              onChange={(e) => onChange({ ...form, minute: e.target.value })}
+              className="modern-input"
+              style={{ width: '100%' }}
+              disabled={form.emergencyWork}
+            >
+              <option value="">Minute</option>
+              {['00', '15', '30', '45'].map(m => (
+                <option key={m} value={m}>{m}</option>
+              ))}
+            </select>
+          </div>
+        </div>
+        <label className="mop-checkbox-label" style={{ marginTop: '0.5rem' }}>
+          <input
+            type="checkbox"
+            name="emergencyWork"
+            checked={form.emergencyWork}
+            onChange={(e) => onChange({ ...form, emergencyWork: e.target.checked })}
+          />
+          Emergency work
+        </label>
+      </section>
+      
+      {/* Equipment Needed Section */}
+      <section>
+        <h2 className="mop-section-title">Equipment Needed</h2>
+        <textarea 
+          name="equipment" 
+          value={form.equipment} 
+          onChange={handleChange} 
+          placeholder="Equipment Needed" 
+          rows={2} 
+          className="modern-input" 
+        />
+      </section>
+      
+      <div style={{ borderTop: '2px dashed #cbd5e1', margin: '2rem 0' }} />
+      
+      {/* Call NOC Checkbox */}
+      <label className="mop-checkbox-label">
+        <input
+          type="checkbox"
+          name="callNOC"
+          checked={form.callNOC}
+          onChange={(e) => onChange({ ...form, callNOC: e.target.checked })}
+        />
+        Tech should call before work
+      </label>
+      
+      {/* Summary Section */}
+      <section>
+        <h2 className="mop-section-title">Summary</h2>
+        <textarea 
+          name="summary" 
+          value={form.summary} 
+          onChange={handleChange} 
+          placeholder="Summary of Work" 
+          rows={2} 
+          className="modern-input" 
+        />
+      </section>
+      
+      {/* MOP Section */}
+      <section>
+        <h2 className="mop-section-title">MOP</h2>
+        <textarea 
+          name="steps" 
+          value={form.steps} 
+          onChange={handleChange} 
+          placeholder="Steps to be Completed" 
+          rows={4} 
+          className="modern-input" 
+        />
+      </section>
+    </form>
+  );
+}
