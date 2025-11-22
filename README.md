@@ -1,0 +1,2 @@
+# mop-template
+MOP Generator
