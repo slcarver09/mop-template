@@ -2,11 +2,21 @@
 
 /**
  * Removes dangerous characters from user input
+ * @param {string} input - The input to sanitize
+ * @param {number} maxLength - Maximum length allowed
+ * @param {boolean} preserveNewlines - Whether to preserve newline characters (for textareas)
  */
-export const sanitizeInput = (input, maxLength = 255) => {
+export const sanitizeInput = (input, maxLength = 255, preserveNewlines = false) => {
   if (typeof input !== 'string') return '';
   
-  let cleaned = input.trim();
+  let cleaned = input;
+  
+  // Only trim if not preserving newlines (for regular inputs)
+  if (!preserveNewlines) {
+    cleaned = cleaned.trim();
+  }
+  
+  // Remove dangerous HTML tags and scripts
   cleaned = cleaned.replace(/[<>]/g, '');
   cleaned = cleaned.replace(/javascript:/gi, '');
   cleaned = cleaned.replace(/on\w+=/gi, '');

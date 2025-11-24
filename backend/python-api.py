@@ -35,7 +35,8 @@ def get_device_info():
             'model': str(row.get('Model', '')),
             'serialNumber': str(row.get('Serial Number', '')),
             'rackLocation': str(row.get('Rack', '')),
-            'rackUnit': str(row.get('RU', ''))
+            'rackUnit': str(row.get('RU', '')),
+            'location': str(row.get('Location', '')),
         })
     return jsonify({'error': 'Device not found'}), 404
 

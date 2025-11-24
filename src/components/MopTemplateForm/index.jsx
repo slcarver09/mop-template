@@ -90,7 +90,8 @@ export default function MopTemplateForm() {
         model: deviceData.model,
         serialNumber: deviceData.serialNumber,
         rackLocation: deviceData.rackLocation,
-        rackUnit: deviceData.rackUnit
+        rackUnit: deviceData.rackUnit,
+        location: deviceData.location || ''
       }));
     }
   };
@@ -99,6 +100,9 @@ export default function MopTemplateForm() {
   const handleFormChange = (updates) => {
     const sanitizedUpdates = {};
     
+    // Fields that should preserve newlines (textareas)
+    const multilineFields = ['equipment', 'summary', 'steps'];
+    
     // Loop through each field that's being updated
     Object.keys(updates).forEach(fieldName => {
       const value = updates[fieldName];
@@ -106,11 +110,11 @@ export default function MopTemplateForm() {
       // Only sanitize if it's a string (not booleans, arrays, etc.)
       if (typeof value === 'string') {
         // Determine max length based on field type
-        const isLongTextField = ['equipment', 'summary', 'steps'].includes(fieldName);
+        const isLongTextField = multilineFields.includes(fieldName);
         const maxLength = isLongTextField ? 5000 : 255;
         
-        // Sanitize the value
-        sanitizedUpdates[fieldName] = sanitizeInput(value, maxLength);
+        // Sanitize the value, preserving newlines for multiline fields
+        sanitizedUpdates[fieldName] = sanitizeInput(value, maxLength, isLongTextField);
       } else {
         // For non-strings (checkboxes, arrays), keep as-is
         sanitizedUpdates[fieldName] = value;

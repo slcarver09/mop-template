@@ -66,6 +66,16 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Virtual Environment
+backend/Scripts/
+backend/Lib/
+backend/Include/
+backend/pyvenv.cfg
+venv/
+env/
+ENV/
+.venv
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.

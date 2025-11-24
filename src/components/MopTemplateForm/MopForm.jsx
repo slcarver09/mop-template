@@ -15,8 +15,16 @@ export default function MopForm({
     onChange({ ...form, [e.target.name]: e.target.value });
   };
 
+  // Prevent form submission on Enter key in textareas
+  const handleTextareaKeyDown = (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      // Allow Enter key to create new lines
+      e.stopPropagation();
+    }
+  };
+
   return (
-    <form className="mop-card">
+    <form className="mop-card" onSubmit={(e) => e.preventDefault()}>
       <h1 className="mop-title">Method of Procedure (MOP)</h1>
       
       {/* Site Address Section */}
@@ -59,7 +67,15 @@ export default function MopForm({
           filteredNodeNames={filteredNodeNames}
           onDeviceNameChange={onDeviceNameChange}
         />
-        
+        {/* Location field */}
+        <input
+          name="location"
+          value={form.location || ''}
+          onChange={handleChange}
+          placeholder="Location"
+          className="modern-input"
+          style={{ marginTop: '0.5em' }}
+        />
         <AdditionalEquipmentList
           additionalEquipment={form.additionalEquipment}
           onUpdate={(updated) => onChange({ ...form, additionalEquipment: updated })}
@@ -133,10 +149,12 @@ export default function MopForm({
         <textarea 
           name="equipment" 
           value={form.equipment} 
-          onChange={handleChange} 
+          onChange={handleChange}
+          onKeyDown={handleTextareaKeyDown}
           placeholder="Equipment Needed" 
           rows={2} 
           className="modern-input" 
+          style={{ whiteSpace: 'pre-wrap' }}
         />
       </section>
       
@@ -159,10 +177,12 @@ export default function MopForm({
         <textarea 
           name="summary" 
           value={form.summary} 
-          onChange={handleChange} 
+          onChange={handleChange}
+          onKeyDown={handleTextareaKeyDown}
           placeholder="Summary of Work" 
           rows={2} 
-          className="modern-input" 
+          className="modern-input"
+          style={{ whiteSpace: 'pre-wrap' }}
         />
       </section>
       
@@ -172,10 +192,12 @@ export default function MopForm({
         <textarea 
           name="steps" 
           value={form.steps} 
-          onChange={handleChange} 
+          onChange={handleChange}
+          onKeyDown={handleTextareaKeyDown}
           placeholder="Steps to be Completed" 
           rows={4} 
-          className="modern-input" 
+          className="modern-input"
+          style={{ whiteSpace: 'pre-wrap' }}
         />
       </section>
     </form>

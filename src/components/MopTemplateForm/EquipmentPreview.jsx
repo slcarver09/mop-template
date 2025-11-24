@@ -11,9 +11,9 @@ export default function EquipmentPreview({ equipment }) {
       <span className="mop-preview-label">Serial Number:</span>
       <span className="mop-preview-value">{equipment.serialNumber}</span>
       <span className="mop-preview-label">Suite:</span>
-      <span className="mop-preview-value">{equipment.suite}</span>
-      <span className="mop-preview-label">Rack Location:</span>
       <span className="mop-preview-value">{equipment.rackLocation}</span>
+      <span className="mop-preview-label">Rack Location:</span>
+      <span className="mop-preview-value">{equipment.location}</span>
       <span className="mop-preview-label">Rack Unit Number:</span>
       <span className="mop-preview-value">{equipment.rackUnit}</span>
     </>

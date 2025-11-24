@@ -1,3 +1,10 @@
+/* Allow multiline and line breaks in textareas */
+textarea.modern-input {
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-y: auto;
+  resize: vertical;
+}
 .mop-preview-equip-grid {
   display: grid;
   grid-template-columns: max-content 1fr;

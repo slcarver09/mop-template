@@ -39,12 +39,11 @@ export const generateMopPDF = async (formData) => {
   doc.setFontSize(12);
 
   // Helper function to render equipment
-  const renderEquipment = (equipment) => {
+  const renderEquipment = (equipment, includeLocation = false) => {
     const labels = [
       'Device Name:',
       'Model:',
       'Serial Number:',
-      'Suite:',
       'Rack Location:',
       'Rack Unit Number:'
     ];
@@ -52,10 +51,15 @@ export const generateMopPDF = async (formData) => {
       equipment.deviceName || '',
       equipment.model || '',
       equipment.serialNumber || '',
-      equipment.suite || '',
       equipment.rackLocation || '',
       equipment.rackUnit || ''
     ];
+
+    // Add Location field for main equipment only
+    if (includeLocation) {
+      labels.push('Location:');
+      values.push(equipment.location || '');
+    }
 
     for (let i = 0; i < labels.length; i++) {
       doc.setFont(undefined, 'bold');
@@ -66,12 +70,12 @@ export const generateMopPDF = async (formData) => {
     }
   };
 
-  // Main equipment
-  renderEquipment(formData);
+  // Main equipment (with Location field)
+  renderEquipment(formData, true);
 
-  // Additional equipment
+  // Additional equipment (without Location field)
   formData.additionalEquipment.forEach((equip) => {
-    renderEquipment(equip);
+    renderEquipment(equip, false);
   });
 
   y += 3;
