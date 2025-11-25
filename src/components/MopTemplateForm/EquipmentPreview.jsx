@@ -1,10 +1,13 @@
 // components/MopTemplateForm/EquipmentPreview.jsx
 import React from 'react';
 
-export default function EquipmentPreview({ equipment, index = 0 }) {
+export default function EquipmentPreview({ equipment, index = 1 }) {
+  // Only show the index number if it's greater than 1 (for additional equipment)
+  const deviceLabel = index > 1 ? `Device Name (${index}):` : 'Device Name:';
+  
   return (
     <>
-      <span className="mop-preview-label">Device Name:</span>
+      <span className="mop-preview-label">{deviceLabel}</span>
       <span className="mop-preview-value">{equipment.deviceName}</span>
       <span className="mop-preview-label">Model:</span>
       <span className="mop-preview-value">{equipment.model}</span>

@@ -28,6 +28,7 @@ export default function MopTemplateForm() {
     emergencyWork: false,
     hour: '',
     minute: '',
+    timezone: '', // Add timezone field
   });
 
   const [filteredNodeNames, setFilteredNodeNames] = useState([]);

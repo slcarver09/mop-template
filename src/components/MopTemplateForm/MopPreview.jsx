@@ -1,8 +1,23 @@
 // components/MopTemplateForm/MopPreview.jsx
 import React from 'react';
 import EquipmentPreview from './EquipmentPreview';
+import { formatTimeWithUTC } from '../../utils/timeUtils';
 
 export default function MopPreview({ form }) {
+  // Format the datetime display
+  const getDateTimeDisplay = () => {
+    if (form.emergencyWork) {
+      return 'Emergency - As Soon As Possible.';
+    }
+    
+    if (form.date && form.hour && form.minute) {
+      const timeDisplay = formatTimeWithUTC(form.date, form.hour, form.minute, form.timezone);
+      return `${form.date} ${timeDisplay}`;
+    }
+    
+    return form.date || '';
+  };
+
   return (
     <div 
       className="mop-card" 
@@ -32,23 +47,16 @@ export default function MopPreview({ form }) {
         <div className="mop-preview-section">
           <strong>Internet2 Equipment Location:</strong>
           <div className="mop-preview-equip-grid">
-            <EquipmentPreview equipment={form} />
+            <EquipmentPreview equipment={form} index={1} />
             {form.additionalEquipment.map((equip, idx) => (
-                <EquipmentPreview key={idx} equipment={{
-                  ...equip,
-                  deviceName: `${equip.deviceName} (${idx + 2})`
-                }} />
+                <EquipmentPreview key={idx} equipment={equip} index={idx + 2} />
             ))}
           </div>
         </div>
         
         <div className="mop-preview-section">
           <strong>Date & Time:</strong>
-          <span className="mop-preview-value">
-            {form.emergencyWork
-              ? 'Emergency - As Soon As Possible.'
-              : `${form.date} ${form.hour && form.minute ? `${form.hour}:${form.minute}` : ''}`}
-          </span>
+          <span className="mop-preview-value">{getDateTimeDisplay()}</span>
         </div>
         
         <div className="mop-preview-section">

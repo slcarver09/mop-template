@@ -23,6 +23,17 @@ export default function MopForm({
     }
   };
 
+  // US Timezones
+  const timezones = [
+    { value: 'America/New_York', label: 'Eastern Time (ET)' },
+    { value: 'America/Chicago', label: 'Central Time (CT)' },
+    { value: 'America/Denver', label: 'Mountain Time (MT)' },
+    { value: 'America/Phoenix', label: 'Arizona Time (MST - No DST)' },
+    { value: 'America/Los_Angeles', label: 'Pacific Time (PT)' },
+    { value: 'America/Anchorage', label: 'Alaska Time (AKT)' },
+    { value: 'Pacific/Honolulu', label: 'Hawaii Time (HST)' },
+  ];
+
   return (
     <form className="mop-card" onSubmit={(e) => e.preventDefault()}>
       <h1 className="mop-title">Method of Procedure (MOP)</h1>
@@ -91,7 +102,7 @@ export default function MopForm({
             (Facility Local Time)
           </span>
         </h2>
-        <div style={{ display: 'flex', gap: '1rem' }}>
+        <div style={{ display: 'flex', gap: '1rem', marginBottom: '0.5rem' }}>
           <input
             type="date"
             name="date"
@@ -132,6 +143,18 @@ export default function MopForm({
             </select>
           </div>
         </div>
+        <select
+          name="timezone"
+          value={form.timezone || ''}
+          onChange={handleChange}
+          className="modern-input"
+          disabled={form.emergencyWork}
+        >
+          <option value="">Select Timezone</option>
+          {timezones.map(tz => (
+            <option key={tz.value} value={tz.value}>{tz.label}</option>
+          ))}
+        </select>
         <label className="mop-checkbox-label" style={{ marginTop: '0.5rem' }}>
           <input
             type="checkbox"
