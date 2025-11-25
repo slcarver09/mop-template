@@ -1,6 +1,6 @@
 # MOP Template Form Generator
 
-## 📄 License
+## Evaulation Only
 
 This project is currently unlicensed and intended for evaluation and testing purposes.
 
