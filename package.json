@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "package": "npm run build && cd backend && pip freeze > requirements.txt"
   },
   "dependencies": {
     "jspdf": "^3.0.4",
