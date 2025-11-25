@@ -21,20 +21,23 @@ export const generateMopPDF = async (formData) => {
   // Site Address
   doc.setFontSize(14);
   doc.text('Site Address:', 15, y);
+  // Underline
+  doc.setLineWidth(0.25);
+  doc.line(15, y + 2, 195, y + 2);
   y += 8;
   doc.setFontSize(12);
-  doc.setFont(undefined, 'bold');
+  doc.setFont(undefined, 'normal');
   doc.text(formData.pop || '', 15, y);
   y += 7;
-  doc.setFont(undefined, 'normal');
   doc.text(formData.street || '', 15, y);
   y += 7;
   doc.text(formData.cityStateZip || '', 15, y);
   y += 10;
-
   // Equipment Location
   doc.setFontSize(14);
   doc.text('Internet2 Equipment Location:', 15, y);
+  doc.setLineWidth(0.25);
+  doc.line(15, y + 2, 195, y + 2);
   y += 8;
   doc.setFontSize(12);
 
@@ -79,10 +82,13 @@ export const generateMopPDF = async (formData) => {
   });
 
   y += 3;
+  y += 10;
 
   // Date & Time
   doc.setFontSize(14);
   doc.text('Date & Time:', 15, y);
+  doc.setLineWidth(0.25);
+  doc.line(15, y + 2, 195, y + 2);
   y += 8;
   doc.setFontSize(12);
   if (formData.emergencyWork) {
@@ -92,18 +98,31 @@ export const generateMopPDF = async (formData) => {
   }
   y += 10;
 
-  // Equipment Needed
   doc.setFontSize(14);
   doc.text('Equipment Needed:', 15, y);
+  doc.setLineWidth(0.25);
+  doc.line(15, y + 2, 195, y + 2);
   y += 8;
   doc.setFontSize(12);
   const equipmentLines = doc.splitTextToSize(formData.equipment || '', 180);
   doc.text(equipmentLines, 15, y);
-  y += (equipmentLines.length * 7) + 10;
+  y += (equipmentLines.length * 7);
+  // Add shipment info if required
+  if (formData.shipmentRequired) {
+    const shipmentText = `Inbound received package found in ticket number ${formData.ticketNumber || '[ticket number]'}. The part should be a ${formData.partId || '[part id]'} with tracking number ${formData.trackingNumber || '[tracking number]'}.`;
+    const shipmentLines = doc.splitTextToSize(shipmentText, 180);
+    doc.setFont(undefined, 'italic');
+    doc.text(shipmentLines, 15, y + 2);
+    doc.setFont(undefined, 'normal');
+    y += (shipmentLines.length * 7);
+  }
+  y += 10;
 
   // Summary
   doc.setFontSize(14);
   doc.text('Summary:', 15, y);
+  doc.setLineWidth(0.25);
+  doc.line(15, y + 2, 195, y + 2);
   y += 8;
   doc.setFontSize(12);
   const summaryLines = doc.splitTextToSize(formData.summary || '', 180);
@@ -113,6 +132,8 @@ export const generateMopPDF = async (formData) => {
   // MOP
   doc.setFontSize(14);
   doc.text('MOP:', 15, y);
+  doc.setLineWidth(0.25);
+  doc.line(15, y + 2, 195, y + 2);
   y += 8;
   doc.setFontSize(12);
   const mopLines = doc.splitTextToSize(formData.steps || '', 180);

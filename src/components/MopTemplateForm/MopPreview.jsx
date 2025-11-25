@@ -34,7 +34,10 @@ export default function MopPreview({ form }) {
           <div className="mop-preview-equip-grid">
             <EquipmentPreview equipment={form} />
             {form.additionalEquipment.map((equip, idx) => (
-              <EquipmentPreview key={idx} equipment={equip} />
+                <EquipmentPreview key={idx} equipment={{
+                  ...equip,
+                  deviceName: `${equip.deviceName} (${idx + 2})`
+                }} />
             ))}
           </div>
         </div>
@@ -51,6 +54,11 @@ export default function MopPreview({ form }) {
         <div className="mop-preview-section">
           <strong>Equipment Needed:</strong>
           <span className="mop-preview-value">{form.equipment}</span>
+          {form.shipmentRequired && (
+            <div className="mop-preview-value" style={{ marginTop: '0.5em', fontStyle: 'italic' }}>
+              Inbound received package found in ticket number <b>{form.ticketNumber || '[ticket number]'}</b>. The part should be a <b>{form.partId || '[part id]'}</b> with tracking number <b>{form.trackingNumber || '[tracking number]'}</b>.
+            </div>
+          )}
         </div>
         
         <div className="mop-preview-section">

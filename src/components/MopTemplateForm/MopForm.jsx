@@ -156,7 +156,41 @@ export default function MopForm({
           className="modern-input" 
           style={{ whiteSpace: 'pre-wrap' }}
         />
-      </section>
+          <label className="mop-checkbox-label" style={{ marginBottom: '0.5em' }}>
+            <input
+              type="checkbox"
+              name="shipmentRequired"
+              checked={form.shipmentRequired || false}
+              onChange={e => onChange({ ...form, shipmentRequired: e.target.checked })}
+            />
+            Shipment required
+          </label>
+          {form.shipmentRequired && (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5em', marginTop: '0.5em' }}>
+              <input
+                name="ticketNumber"
+                value={form.ticketNumber || ''}
+                onChange={handleChange}
+                placeholder="Ticket Number"
+                className="modern-input"
+              />
+              <input
+                name="trackingNumber"
+                value={form.trackingNumber || ''}
+                onChange={handleChange}
+                placeholder="Tracking Number"
+                className="modern-input"
+              />
+              <input
+                name="partId"
+                value={form.partId || ''}
+                onChange={handleChange}
+                placeholder="Part ID"
+                className="modern-input"
+              />
+            </div>
+          )}
+        </section>
       
       <div style={{ borderTop: '2px dashed #cbd5e1', margin: '2rem 0' }} />
       

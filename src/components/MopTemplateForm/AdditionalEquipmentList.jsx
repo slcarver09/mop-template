@@ -17,12 +17,12 @@ export default function AdditionalEquipmentList({
         deviceName: '',
         model: '',
         serialNumber: '',
-        suite: '',
         rackLocation: '',
-        rackUnit: ''
+        rackUnit: '',
+        location: ''
       }
     ]);
-  };
+  }
 
   const handleChange = (index, updatedEquipment) => {
     const updated = [...additionalEquipment];
@@ -79,6 +79,38 @@ export default function AdditionalEquipmentList({
           <EquipmentFields
             equipment={equip}
             onChange={(updated) => handleChange(idx, updated)}
+            showDeviceNameList={true}
+            filteredNodeNames={window.filteredNodeNames || []}
+            onDeviceNameChange={async (deviceName) => {
+              // Autofill for additional equipment
+              if (!deviceName) return;
+              const API_URL = import.meta.env.VITE_API_URL;
+              try {
+                const res = await fetch(`${API_URL}/api/device-info?name=${encodeURIComponent(deviceName)}`);
+                if (!res.ok) return;
+                const deviceData = await res.json();
+                handleChange(idx, {
+                  ...equip,
+                  deviceName,
+                  model: deviceData.model,
+                  serialNumber: deviceData.serialNumber,
+                  rackLocation: deviceData.rackLocation,
+                  rackUnit: deviceData.rackUnit,
+                  location: deviceData.location || ''
+                });
+              } catch (err) {
+                // fail silently
+              }
+            }}
+          />
+          {/* Location field for additional equipment */}
+          <input
+            name="location"
+            value={equip.location || ''}
+            onChange={e => handleChange(idx, { ...equip, location: e.target.value })}
+            placeholder="Location"
+            className="modern-input"
+            style={{ marginTop: '0.5em' }}
           />
         </div>
       ))}

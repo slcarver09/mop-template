@@ -50,7 +50,7 @@ export default function EquipmentFields({
         name="rackLocation"
         value={equipment.rackLocation || ''}
         onChange={(e) => handleFieldChange('rackLocation', e.target.value)}
-        placeholder="Rack Location"
+        placeholder="Suite"
         className="modern-input"
       />
       <input
