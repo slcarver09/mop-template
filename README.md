@@ -15,13 +15,12 @@ This application helps you create professional Method of Procedure (MOP) documen
 - Automatically converting times to UTC (helpful for distributed teams)
 - Downloading a formatted PDF ready to share
 
-No technical knowledge required to use - just fill out the form and download!
 
 ---
 
 ## What You Need First
 
-Before you start, you'll need to install two programs on your computer. Don't worry - they're free and safe!
+Before you start, you'll need to install two programs on your computer Node.js and Python. 
 
 ### 1. Install Node.js
 
@@ -42,7 +41,7 @@ Node.js lets your computer run the application.
 
 ### 2. Install Python
 
-Python runs the behind-the-scenes part of the application.
+Python runs the behind-the-scenes part of the application and is where the api endpoints are built.
 
 **Steps:**
 1. Go to: https://www.python.org/downloads/
