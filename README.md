@@ -1,9 +1,11 @@
 # MOP Template Form Generator
 
-A simple web application for creating Method of Procedure (MOP) documents with automatic PDF generation.
+## 📄 License
 
-![MOP Template Form](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+This project is currently unlicensed and intended for evaluation and testing purposes.
+
+For questions about usage rights, please contact slcarver@iu.edu
+
 
 ## What Does This Do?
 
