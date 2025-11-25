@@ -6,6 +6,10 @@ This project is currently unlicensed and intended for evaluation and testing pur
 
 For questions about usage rights, please contact slcarver@iu.edu
 
+You will need the csvs to run this as it is not currently connected to the databse. Please reach out to me to get those csvs
+
+They need to be placed in a folder called 'csvs' in the root directory of the project. 
+
 
 ## What Does This Do?
 
